@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain-google-genai
+google-api-python-client
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+langchain
+langchain-community
+aiofiles
+langchain-groq
