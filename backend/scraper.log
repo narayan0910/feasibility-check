@@ -1,0 +1,1591 @@
+2026-04-16 13:47:43,449 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-16 13:48:20,354 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-16 13:48:20,356 | INFO | Searching DDGS for query: smart mirror mental health competitors
+2026-04-16 13:48:20,945 | INFO | response: https://www.bing.com/search?q=smart+mirror+mental+health+competitors 200
+2026-04-16 13:48:21,976 | INFO | response: https://www.bing.com/search?q=smart+mirror+mental+health+competitors&first=11&FORM=PERE 200
+2026-04-16 13:48:23,052 | INFO | response: https://www.bing.com/search?q=smart+mirror+mental+health+competitors&first=21&FORM=PERE1 200
+2026-04-16 13:48:24,157 | INFO | response: https://www.bing.com/search?q=smart+mirror+mental+health+competitors&first=31&FORM=PERE2 200
+2026-04-16 13:48:25,415 | INFO | response: https://www.bing.com/search?q=smart+mirror+mental+health+competitors&first=41&FORM=PERE3 200
+2026-04-16 13:48:25,421 | INFO | Found result | Title: 什么是 SMART 原则？怎么在设定目标时应用它？ - 知乎 | URL: https://www.zhihu.com/question/657097690
+2026-04-16 13:48:25,421 | INFO | Found result | Title: Das HVO-Experiment - CDI - smart-Forum | URL: https://www.smart-forum.de/topic/153915-das-hvo-experiment/
+2026-04-16 13:48:25,421 | INFO | Found result | Title: 什么是smart原则，有什么好的例子？ - 知乎 | URL: https://www.zhihu.com/question/29546501/answers/updated
+2026-04-16 13:48:25,421 | INFO | Found result | Title: SMART原则是什么？ - 知乎 | URL: https://www.zhihu.com/question/628465916
+2026-04-16 13:48:25,421 | INFO | Found result | Title: SMART原则 - 知乎 | URL: https://www.zhihu.com/topic/20666851/intro
+2026-04-16 13:48:27,215 | INFO | Starting crawl for: https://www.zhihu.com/question/657097690
+2026-04-16 13:48:31,327 | INFO | Successfully crawled: https://www.zhihu.com/question/657097690 | Markdown length: 7897
+2026-04-16 13:48:31,327 | INFO | Crawled content for https://www.zhihu.com/question/657097690:
+[](https://www.zhihu.com)
+[关注](https://www.zhihu.com/signin?next=%2Ffollow)[推荐](https://www.zhihu.com/signin?next=%2F)[热榜](https://www.zhihu.com/signin?next=%2Fhot)[专栏](https://www.zhihu.com/signin?next=%2Fcolumn-square)[圈子New ](https://www.zhihu.com/signin?next=%2Fring-feeds)[付费咨询](https://www.zhihu.com/consult)[知学堂](https://www.zhihu.com/education/learning)
+​
+[](https://zhida.zhihu.com/)
+切换模式
+登录/注册
+[职业](https://www.zhihu.com/topic/19552488)
+[职场](https://www.zhihu.com/topic/19557876)
+[原则](https://www.zhihu.com/topic/19624252)
+# 什么是 SMART 原则？怎么在设定目标时应用它？
+关注者
+**2**
+被浏览
+**1,188**
+关注问题​写回答
+​邀请回答
+​好问题
+​添加评论
+​分享
+​
+#### 2 个回答
+默认排序
+[![小李说职场](https://picx.zhimg.com/v2-95e6778432bfb7cbec6a36187b9ef46d_l.jpg?source=1def8aca)](https://www.zhihu.com/people/12-26-58-33-98)
+[小李说职场](https://www.zhihu.com/people/12-26-58-33-98)
+职场是我的代名词
+​ 关注
+SpaceX和特斯拉的创始人埃隆·马斯克最推崇的工作第一性原则就是**SMART原则** 。职场中的精英们经常提及的SMART原则，究竟是实用工具还是营销噱头？本视频将为您详细解析。
+![](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='1280'%20height='720'></svg>)
+在众多视频中，我们反复提及**SMART原则** 。那么，究竟什么是SMART原则？
+首先，这一原则在职场中的重要性不言而喻。若不了解SMART原则，职场发展将举步维艰。或许你早已掌握其精髓，只是未曾意识到这就是SMART原则。
+然而，仍有大量职场人士对此缺乏认知。通过辅导众多学员，我们发现许多职场问题的根源，正是缺乏这一**职场第一性原理** ——SMART原则。
+![](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='1280'%20height='720'></svg>)
+什么是**SMART原则** ？简而言之，它要求我们的思考、表达、行动和计划等各方面都符合这一原则。遵循SMART原则能使我们思路更清晰、表达更准确、执行更高效。这一原则贯穿职场工作的各个环节，包括与领导的沟通、团队协作、制定工作计划、了解客户需求、交付成果以及处理投诉等，对个人职业发展至关重要。
+SMART由五个字母组成：  
+- **S** 代表Specific（具体）  
+- **M** 代表Measurable（可测）  
+- **A** 代表Attainable（可达）  
+- **R** 代表Relevant（相关）  
+- **T** 代表Time-bound（时限）
+![](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='1280'%20height='720'></svg>)
+T代表Timebound，即有时间限制。这五个部分共同构成了SMART原则。首先，第一个要素是Specific，即具体。什么是具体呢？我举一个简单的例子。
+![](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='1280'%20height='720'></svg>)
+例如，常有朋友谈及人生追求与挑战时，我会问：“不谈追求，你想实现什么？”对方往往回答：“就想赚钱。”追问具体金额时，得到的却是模糊的“很多钱”。这种目标设定存在
+2026-04-16 13:48:31,327 | INFO | Starting crawl for: https://www.smart-forum.de/topic/153915-das-hvo-experiment/
+2026-04-16 13:48:35,273 | INFO | Successfully crawled: https://www.smart-forum.de/topic/153915-das-hvo-experiment/ | Markdown length: 77669
+2026-04-16 13:48:35,273 | INFO | Crawled content for https://www.smart-forum.de/topic/153915-das-hvo-experiment/:
+[Jump to content](https://www.smart-forum.de/topic/153915-das-hvo-experiment/#elContent "Go to main content on this page")
+[![Image](https://www.smart-forum.de/uploads/monthly_2019_12/smart-forum-kopf-2019-mit-balken-BIG.jpg.939cb88ce140be74bd64be061a7593b6.jpg)](https://www.smart-forum.de/)
+[Forum](https://www.smart-forum.de/ "Forum")
+[Suche](https://www.smart-forum.de/search/ "Suche")
+[Aktivitäten](https://www.smart-forum.de/discover/ "Aktivitäten")
+[![smart-Forum](https://www.smart-forum.de/uploads/monthly_2019_12/smart-forum-logo_big.jpg.ab8e03310542bc8565d0d62b8d2f743d.jpg)](https://www.smart-forum.de/)
+  * [ Hier anmelden ](https://www.smart-forum.de/login/)
+#### Anmelden
+  
+  
+
+    *     *     * Angemeldet bleiben Bei öffentlichen Computern nicht empfohlen
+    *   
+Anmelden   
+
+[ Passwort vergessen?](https://www.smart-forum.de/lostpassword/)
+  * [Jetzt registrieren](https://www.smart-forum.de/register/)
+
+
+Suche in 
+  * Überall
+  * Themen
+  * Dieses Forum
+  * Dieses Thema
+  * Mehr Optionen... 
+
+
+Suchtreffer enthalten ... 
+  * _alle_ Suchbegriffe
+  * nur _einige_ der Suchbegriffe
+
+
+Finde Suchtreffer ... 
+  * im Titel und Text
+  * nur im Titel
+
+
+  * [ Forum ](https://www.smart-forum.de)
+    * [Mehr ](https://www.smart-forum.de/topic/153915-das-hvo-experiment/)
+  * [ Suche ](https://www.smart-forum.de/search/)
+  * [ Aktivitäten ](https://www.smart-forum.de/discover/)
+    * [ Alle Aktivitäten ](https://www.smart-forum.de/discover/)
+    * [Mehr ](https://www.smart-forum.de/topic/153915-das-hvo-experiment/)
+  * [Mehr](https://www.smart-forum.de/topic/153915-das-hvo-experiment/)
+    * [Mehr ](https://www.smart-forum.de/topic/153915-das-hvo-experiment/)
+
+
+  * [ CDI ](https://www.smart-forum.de/forum/31-cdi/)
+  * [](https://www.smart-forum.de/discover/)
+  * [](https://www.smart-forum.de/search/)
+  * [ ](https://www.smart-forum.de/topic/153915-das-hvo-experiment/)
+
+
+  * [Alle Aktivitäten](https://www.smart-forum.de/discover/)
+
+
+  * [ Startseite ](https://www.smart-forum
+2026-04-16 13:48:35,273 | INFO | Starting crawl for: https://www.zhihu.com/question/29546501/answers/updated
+2026-04-16 13:48:39,369 | INFO | Successfully crawled: https://www.zhihu.com/question/29546501/answers/updated | Markdown length: 15988
+2026-04-16 13:48:39,369 | INFO | Crawled content for https://www.zhihu.com/question/29546501/answers/updated:
+[![](https://www.zhihu.com/question/29546501/answers/updated)](javascript:void\(0\))
+[](https://www.zhihu.com)
+[关注](https://www.zhihu.com/signin?next=%2Ffollow)[推荐](https://www.zhihu.com/signin?next=%2F)[热榜](https://www.zhihu.com/signin?next=%2Fhot)[专栏](https://www.zhihu.com/signin?next=%2Fcolumn-square)[圈子New ](https://www.zhihu.com/signin?next=%2Fring-feeds)[付费咨询](https://www.zhihu.com/consult)[知学堂](https://www.zhihu.com/education/learning)
+​
+[](https://zhida.zhihu.com/)
+切换模式
+登录/注册
+[](https://www.zhihu.com)
+# 什么是smart原则，有什么好的例子？
+关注问题​写回答
+登录/注册
+[职业发展](https://www.zhihu.com/topic/19554825)
+[职场](https://www.zhihu.com/topic/19557876)
+[职业规划](https://www.zhihu.com/topic/19560641)
+[个人成长](https://www.zhihu.com/topic/19571588)
+# 什么是smart原则，有什么好的例子？
+关注者
+**379**
+被浏览
+**3,017,818**
+关注问题​写回答
+​邀请回答
+​好问题 7
+​1 条评论
+​分享
+​
+#### 51 个回答
+按时间排序
+[![峰哥爱琢磨](https://picx.zhimg.com/v2-ec685a6dbf291b688af45db95efa14d7_l.jpg?source=1def8aca)](https://www.zhihu.com/people/nfye5sz5)
+[峰哥爱琢磨](https://www.zhihu.com/people/nfye5sz5)
+外企HR高管，拆解底层管理逻辑与关键决策模型，分享真实经验
+​ 关注
+又到年初定目标的时候了。会议室里飘着咖啡味，每个人面前摆着那张熟悉的表格。老王清了清嗓子，念出第一行：“本季度核心目标：销售额提升20%。”
+你低头看了看自己的那份，写得清清楚楚：用户满意度达到95%，新增培训15小时。完美，每个字都符合那套经典的SMART原则——具体、可衡量、可实现、相关、有时限，漂亮得像教科书案例。
+可不知道你有没有这种感觉：年复一年，我们把这些漂亮的目标一个个打上勾，年底复盘报告做得光彩照人。但关上电脑走出公司，心里头却空落落的。团队里最得力的那个小伙子上个月提了离职，大家好像都挺累，也没人再有心思琢磨点新东西。
+指标明明都达成了，为什么总觉得哪儿不对劲？是我们不够“聪明”，还是这套被捧了半个世纪的管理工具，它本身的逻辑，就跟我们现在干的活、处的人，有点对不上号了？
+今天咱们不扯那些复杂的理论，就当饭后闲聊。要弄明白这事儿，得从一个叫泰勒的人，和他手里那块冰冷的秒表说起。 
+![](https://picx.zhimg.com/80/v2-8a6a681ab567a6d347a284a11753b04f_720w.webp?source=1def8aca)
+SMART原则的百年历程
+1911年，泰勒写了本叫《科学管理原理》的书，里面有个经典案例，伯利恒钢铁厂搬生铁。他拿着秒表，把工人每一个弯腰、起身、走路的动作都拆开，掐着时间算，最后把休息、喝水、甚至发会儿呆的时间全给“优化”掉了。结果呢？单人每天搬运量从12.5吨猛增到47吨。
+听起来是效率奇迹，对吧？但你想过没，在这套逻辑里，工人成了什么？一个完美执行指令的部件。泰勒的核心就一句话：**工作，可以像拆机器一样拆成零件，然后找到那个最快、最省力的拼装方式。** 至于工人为什么这么搬、怎么想，不重要。你只需要听话，按“最优解”动起来就行。
+这个幽灵，其实一直没走。等到上世纪80年代，管理学家乔治·杜兰总结出SMART这个漂亮缩写的时候，他可能没意识到，自己给泰勒那个冰冷的“科学任务”套上了一件叫“目标管理”的时髦外套。早期的SMART，骨子里还是那套：**把活拆碎，变成一串串清晰、可测量、最好别出错的指令。** 这在生产线上、在搬生铁的时候，简直天才。可当我们把它原封不动地套在程序员、设计师、产
+2026-04-16 13:48:39,369 | INFO | Starting crawl for: https://www.zhihu.com/question/628465916
+2026-04-16 13:48:41,740 | INFO | Successfully crawled: https://www.zhihu.com/question/628465916 | Markdown length: 16679
+2026-04-16 13:48:41,740 | INFO | Crawled content for https://www.zhihu.com/question/628465916:
+[![](https://www.zhihu.com/question/628465916)](javascript:void\(0\))
+[](https://www.zhihu.com)
+[关注](https://www.zhihu.com/signin?next=%2Ffollow)[推荐](https://www.zhihu.com/signin?next=%2F)[热榜](https://www.zhihu.com/signin?next=%2Fhot)[专栏](https://www.zhihu.com/signin?next=%2Fcolumn-square)[圈子New ](https://www.zhihu.com/signin?next=%2Fring-feeds)[付费咨询](https://www.zhihu.com/consult)[知学堂](https://www.zhihu.com/education/learning)
+​
+[](https://zhida.zhihu.com/)
+切换模式
+登录/注册
+[](https://www.zhihu.com)
+# SMART原则是什么？
+关注问题​写回答
+登录/注册
+[用户行为](https://www.zhihu.com/topic/19562281)
+[运营](https://www.zhihu.com/topic/19564940)
+[留存率](https://www.zhihu.com/topic/19566450)
+# SMART原则是什么？
+关注者
+**7**
+被浏览
+**6,853**
+关注问题​写回答
+​邀请回答
+​好问题
+​添加评论
+​分享
+​
+#### 5 个回答
+默认排序
+[![小栗子](https://picx.zhimg.com/v2-0b05bb6299fb2bff572326e9b41fefa5_l.jpg?source=1def8aca)](https://www.zhihu.com/people/jackienjoy)
+[小栗子](https://www.zhihu.com/people/jackienjoy)
+[​![知乎知识会员](https://pic1.zhimg.com/v2-57fe7feb4813331d5eca02ef731e12c9.jpg?source=88ceefae)](https://www.zhihu.com/kvip/purchase)
+产品人，还会一点点英语
+​ 关注
+SMART原则来自于管理学中的绩效管理的部分，指的是在绩效目标的制定时一定要遵循5个原则，以便目标能够顺利的执行下去。然后取这5个原则的首字母，最终形成了SMART法则。后来，这个原则被泛化使用到任意目标的制定上，都建议遵循这5个目标。
+![](https://pic1.zhimg.com/80/v2-cb784329c837237811bddcbf42a0f941_720w.webp?source=1def8aca)
+这5个原则分别是：
+**S** pecific (确定的）
+目标必须是确定的，不能笼统、范范的概述，必须明确。
+**M** easurable（可计量的）
+目标必须是可以计量的。如果无法计量，就无法判定目标到底有没有达到。比如销售额在去年基础上提升10%就可一个可计量的目标， 而销售额极大提升就不是一个可计量的目标。
+**A** chievable（可达到的）
+目标必须是经过努力可达成的。如果制定一个大大超出实际情况的目标，每个人都知道根本完不成，那就完全没有意义了。
+**R** elevant(相关的）
+目标必须是与员工的工作相关的。即和员工自己的工作高度相关才行。比如给后勤行政部门的员工制定一个与其自身工作毫无关联性的产品销售额的指标是不合理的。
+**T** ime-based（有时限的）
+目标必须是有时间限制的。即在一定时间范围内达成才有意义。超过时限的话，无论达成或者不达成都只能计算为未达成。
+阅读全文​
+​赞同 5​​添加评论​9 ​喜欢
+​分享
+[![仰望星空的猫](https://pic1.zhimg.com/v2-282f8d42deb8bd760d10043e7dc281c1_l.jpg?source=1def8aca)](https://www.zhihu.com/people/91-1-12-14-82)
+[仰望星空的猫](https://www.zhihu.com/people/91-1-12-14-82)
+再难再累也别忘记仰望星空，心中有光，勇往直前。
+​ 关注
+## 一、简介
+SMART法则最初是由**管理学大师彼得·德鲁克** 提出。德鲁克在1954年出版的著作《管理的实践》中
+2026-04-16 13:48:41,740 | INFO | Starting crawl for: https://www.zhihu.com/topic/20666851/intro
+2026-04-16 13:48:43,831 | INFO | Successfully crawled: https://www.zhihu.com/topic/20666851/intro | Markdown length: 3921
+2026-04-16 13:48:43,832 | INFO | Crawled content for https://www.zhihu.com/topic/20666851/intro:
+[![](https://www.zhihu.com/topic/20666851/intro)](javascript:void\(0\))
+[](https://www.zhihu.com)
+[关注](https://www.zhihu.com/signin?next=%2Ffollow)[推荐](https://www.zhihu.com/signin?next=%2F)[热榜](https://www.zhihu.com/signin?next=%2Fhot)[专栏](https://www.zhihu.com/signin?next=%2Fcolumn-square)[圈子New ](https://www.zhihu.com/signin?next=%2Fring-feeds)[付费咨询](https://www.zhihu.com/consult)[知学堂](https://www.zhihu.com/education/learning)
+​
+[](https://zhida.zhihu.com/)
+切换模式
+登录/注册
+![](https://pic1.zhimg.com/v2-59fd75966feca0fc21b78bec37ce6fac_qhd.jpg?source=57bbeac9)
+## 
+SMART原则
+SMART原则(S=Specific、M=Measurable、A=Attainable、R=Relevant、T=Time-bound)，实施目标管理不仅是为了利于员工更加明确高效地工作，更是为…查看全部内容
+关注话题[​管理](https://zhuanlan.zhihu.com/p/549805343)
+​分享
+​
+  * [百科](https://www.zhihu.com/topic/20666851/intro)
+  * [讨论](https://www.zhihu.com/topic/20666851/hot)
+  * [精华](https://www.zhihu.com/topic/20666851/top-answers)
+  * [等待回答](https://www.zhihu.com/topic/20666851/unanswered)
+
+
+## 简介
+SMART原则(S=Specific、M=Measurable、A=Attainable、R=Relevant、T=Time-bound)，实施目标管理不仅是为了利于员工更加明确高效地工作，更是为了管理者将来对员工实施绩效考核提供了考核目标和考核标准，使考核更加科学化、规范化，更能保证考核的公正、公开与公平。
+## 更多信息
+  * #### 中文名
+SMART原则
+  * #### 提出者
+彼得·德鲁克
+  * #### 出处
+《管理的实践》
+  * #### 时间
+1954年
+
+
+![](https://static.zhihu.com/heifetz/assets/sogou.b02a33cf.png)
+数据由搜狗百科提供
+[查看百科全文 ​](https://baike.sogou.com/v2421295.htm?ch=zhihu.topic)
+百科摘录
+2
+28个采购管理工具，你了解几个？下的内容摘录
+[![采购培训](https://pic1.zhimg.com/50/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=54b3c3a5)](https://www.zhihu.com/people/reseted1698215951000)
+[采购培训](https://www.zhihu.com/people/reseted1698215951000)
+更多采购与供应链管理知识，请关注公众号：CPPM666
+SMART原则:目标必须是具体的、可以衡量、可以达到的、和其他目标具有相关性、具有明确的截止期限。 ABC分类法 它是根据事物在技术或经济方面的主要特征,进行分类排队,分清重点和一般,从而有区别地确定管理方式的一种分析方法。
+知乎小知 摘录于 2020-04-24
+我把百年来的管理概念和方法精华总结为10000个字下的内容摘录
+[![任向晖](https://picx.zhimg.com/50/v2-7b1fba3eccb7d6161b470b6859ffa293_l.jpg?source=54b3c3a5)](https://www.zhihu.com/people/philren)
+[任向晖](https://www.zhihu.com/people/philren)
+明道云创始人 数字化企业伴侣
+SMART原则是马里兰大学洛克教授在目标设置理论中总结出来的
+2026-04-16 13:48:50,606 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-16 13:52:07,751 | INFO | Program started
+2026-04-16 13:52:15,860 | INFO | Searching DDGS for query: smart mirror startup idea site:reddit.com
+2026-04-16 13:52:16,385 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com 200
+2026-04-16 13:52:17,426 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com&first=11&FORM=PERE 200
+2026-04-16 13:52:18,490 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com&first=21&FORM=PERE1 200
+2026-04-16 13:52:19,485 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com&first=31&FORM=PERE2 200
+2026-04-16 13:52:20,531 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com&first=41&FORM=PERE3 200
+2026-04-16 13:52:20,576 | WARNING | No results found for query: smart mirror startup idea site:reddit.com
+2026-04-16 13:52:39,271 | INFO | Program started
+2026-04-16 13:52:45,561 | INFO | Searching DDGS for query: smart mirror startup idea site:reddit.com
+2026-04-16 13:52:46,181 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com 200
+2026-04-16 13:52:47,212 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com&first=11&FORM=PERE 200
+2026-04-16 13:52:48,598 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com&first=21&FORM=PERE1 200
+2026-04-16 13:52:49,580 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com&first=31&FORM=PERE2 200
+2026-04-16 13:52:50,632 | INFO | response: https://www.bing.com/search?q=smart+mirror+startup+idea+site%3Areddit.com&first=41&FORM=PERE3 200
+2026-04-16 13:52:50,748 | WARNING | No results found for query: smart mirror startup idea site:reddit.com
+2026-04-16 13:54:05,300 | INFO | Program started
+2026-04-16 13:54:16,601 | INFO | Searching DDGS for query: smart mirror startup idea site:reddit.com
+2026-04-16 13:54:17,505 | INFO | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=smart%20mirror%20startup%20idea%20site%3Areddit.com 200
+2026-04-16 13:54:17,769 | INFO | response: https://grokipedia.com/api/typeahead?query=smart+mirror+startup+idea+site%3Areddit.com&limit=1 200
+2026-04-16 13:54:18,670 | INFO | response: https://search.yahoo.com/search;_ylt=7ZSX10SGIjboklN66iVBKYTo;_ylu=tunXCycB-tPz0XV7v8jRP39EDHmrbm9ReRfn3GX37Csej-Y?p=smart+mirror+startup+idea+site%3Areddit.com 200
+2026-04-16 13:54:19,928 | INFO | response: https://yandex.com/search/site/?text=smart+mirror+startup+idea+site%3Areddit.com&web=1&searchid=1144237 200
+2026-04-16 13:54:19,983 | INFO | Found result | Title: A community for smart mirror makers and enthusiasts! - Reddit | URL: https://www.reddit.com/r/smartmirrors/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: How I Made a Full-Length Smart Mirror that Integrates with ... | URL: https://www.reddit.com/r/DIY/comments/9xw7ob/how_i_made_a_fulllength_smart_mirror_that/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: Building a MagicMirror alternative : r/smartmirrors - Reddit | URL: https://www.reddit.com/r/smartmirrors/comments/u4gqj3/building_a_magicmirror_alternative/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: Smart Mirror project need ideas : r/smartmirrors - Reddit | URL: https://www.reddit.com/r/smartmirrors/comments/117f7xw/smart_mirror_project_need_ideas/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: A smart mirror business that sells worldwide : r/Startup_Ideas | URL: https://www.reddit.com/r/Startup_Ideas/comments/96722c/a_smart_mirror_business_that_sells_worldwide/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: Showcase: My Smart Mirror in 2022 : r/smartmirrors - Reddit | URL: https://www.reddit.com/r/smartmirrors/comments/si6lg3/showcase_my_smart_mirror_in_2022/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: Make your own Smart Mirror that displays weather, steps and ... | URL: https://www.reddit.com/r/smartmirrors/comments/a68hb1/make_your_own_smart_mirror_that_displays_weather/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: I just had the best idea for a startup! Wait… no… 10 ideas! r/startups | URL: https://www.reddit.com/r/startups/comments/1gq3vod/i_just_had_the_best_idea_for_a_startup_wait_no_10/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: 5 Brutal Questions I Ask Before Building Any Startup Idea... | URL: https://www.reddit.com/r/startups/comments/1k4kk6n/5_brutal_questions_i_ask_before_building_any/
+2026-04-16 13:54:19,983 | INFO | Found result | Title: I’m publishing 1 startup idea every week until I hit on a winner. | URL: https://www.reddit.com/r/Startup_Ideas/comments/1jh69fj/im_publishing_1_startup_idea_every_week_until_i/
+2026-04-16 13:54:21,552 | INFO | Starting crawl for: https://www.reddit.com/r/smartmirrors/
+2026-04-16 13:54:23,048 | INFO | Successfully crawled: https://www.reddit.com/r/smartmirrors/ | Markdown length: 206
+2026-04-16 13:54:23,048 | INFO | Crawled content for https://www.reddit.com/r/smartmirrors/:
+[ Skip to main content ](https://www.reddit.com/r/smartmirrors/?solution=2745c70d4e5bd7ed2745c70d4e5bd7ed&js_challenge=1&token=bbbe4bf1c9a2b5160829c4be34da586107113c37b2f622c220169d69abdbb4d9#main-content)
+
+2026-04-16 13:54:23,048 | INFO | Starting crawl for: https://www.reddit.com/r/DIY/comments/9xw7ob/how_i_made_a_fulllength_smart_mirror_that/
+2026-04-16 13:54:24,383 | INFO | Successfully crawled: https://www.reddit.com/r/DIY/comments/9xw7ob/how_i_made_a_fulllength_smart_mirror_that/ | Markdown length: 3313
+2026-04-16 13:54:24,383 | INFO | Crawled content for https://www.reddit.com/r/DIY/comments/9xw7ob/how_i_made_a_fulllength_smart_mirror_that/:
+[ Skip to main content ](https://www.reddit.com/r/DIY/comments/9xw7ob/how_i_made_a_fulllength_smart_mirror_that/#main-content) How I Made a Full-Length Smart Mirror that Integrates with Google Drive™ : r/DIY
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/DIY
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ ![](https://b.thumbs.redditmedia.com/c2X_elrq-5_ckLQZuxtgcoxcIz2Lj2XaJPIkOfkt7LA.png) Go to DIY  ](https://www.reddit.com/r/DIY/)
+[r/DIY](https://www.reddit.com/r/DIY/) • 8y ago
+[marinom97](https://www.reddit.com/user/marinom97/)
+#  How I Made a Full-Length Smart Mirror that Integrates with Google Drive™ 
+[ ](https://imgur.com/a/KQo94E4)
+[ ![](https://external-preview.redd.it/how-i-made-a-full-length-smart-mirror-that-integrates-with-v0-csQ_4Z4lW5lS_QU8flYr6ebVDbtQcM2DiZQ6cR8xLfk.jpg?width=640&crop=smart&auto=webp&s=2b7b45226bdcb8e6d5b6f49d7c80c280ab517e02) ](https://imgur.com/a/KQo94E4)[ ![r/DIY - How I Made a Full-Length Smart Mirror that Integrates with Google Drive™](https://external-preview.redd.it/how-i-made-a-full-length-smart-mirror-that-integrates-with-v0-csQ_4Z4lW5lS_QU8flYr6ebVDbtQcM2DiZQ6cR8xLfk.jpg?width=640&crop=smart&auto=webp&s=2b7b45226bdcb8e6d5b6f49d7c80c280ab517e02) ](https://imgur.com/a/KQo94E4)
+[ imgur.com  Open ](https://imgur.com/a/KQo94E4)
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ How to make a smart mirror  ](https://www.reddit.com/answers/ec0f4086-ccfb-42c4-81b7-7e570ba581b4/?q=How+to+make+a+smart+mirror&source=PDP)
+[ Best mirror for heavy sleepers  ](https://www.reddit.com/answers/03cc06d3-36c5-
+2026-04-16 13:54:24,384 | INFO | Starting crawl for: https://www.reddit.com/r/smartmirrors/comments/u4gqj3/building_a_magicmirror_alternative/
+2026-04-16 13:54:25,884 | INFO | Successfully crawled: https://www.reddit.com/r/smartmirrors/comments/u4gqj3/building_a_magicmirror_alternative/ | Markdown length: 4969
+2026-04-16 13:54:25,884 | INFO | Crawled content for https://www.reddit.com/r/smartmirrors/comments/u4gqj3/building_a_magicmirror_alternative/:
+[ Skip to main content ](https://www.reddit.com/r/smartmirrors/comments/u4gqj3/building_a_magicmirror_alternative/#main-content) Building a MagicMirror alternative : r/smartmirrors
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/smartmirrors
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to smartmirrors  ](https://www.reddit.com/r/smartmirrors/)
+[r/smartmirrors](https://www.reddit.com/r/smartmirrors/) • 4y ago
+[mirror_dev](https://www.reddit.com/user/mirror_dev/)
+#  Building a MagicMirror alternative 
+First off, I love MagicMirror! I’ve been using it for a while and it’s amazing. I am looking into creating an alternative though. Mostly because I think it would be fun to build, and there are probably some areas to improve on, functionally and technically. 
+Here are my initial thoughts. Feel free to leave any suggestions or ideas you have! I would love to hear about what people would like to see. 
+Features 
+  * Ability to 'open' apps to focus in and show more than just a widget. 
+  * One-click install: No need for coding or command line experience to setup and use. 
+  * Better performance, startup times, app size. 
+  * Dev kit: Developers should be able to easily create apps. Will include a design system UI component library, and utilities to access useful sensor data and more. Includes template/framework. 
+  * Multi-Input interaction support (Touch, keyboard, rotary knob, etc.) 
+  * Companion web app to easily control 
+  * Easy app (package) installation and management 
+  * Better security 
+  * Open source 
+
+
+Technical Details: 
+  * Built with Tauri (Rust-based Electron alternative) 
+    * Should have less memory usage, smaller bundle size, and faster startup than Electron 
+    * Hook into lower-level Rust packages 
+    * Intentional security model 
+  * Main UI built with React 
+    * Widget layout, maximizing apps, global settings, etc. 
+    * Intentional design
+2026-04-16 13:54:25,884 | INFO | Starting crawl for: https://www.reddit.com/r/smartmirrors/comments/117f7xw/smart_mirror_project_need_ideas/
+2026-04-16 13:54:26,927 | INFO | Successfully crawled: https://www.reddit.com/r/smartmirrors/comments/117f7xw/smart_mirror_project_need_ideas/ | Markdown length: 3546
+2026-04-16 13:54:26,927 | INFO | Crawled content for https://www.reddit.com/r/smartmirrors/comments/117f7xw/smart_mirror_project_need_ideas/:
+[ Skip to main content ](https://www.reddit.com/r/smartmirrors/comments/117f7xw/smart_mirror_project_need_ideas/#main-content) Smart Mirror project need ideas : r/smartmirrors
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/smartmirrors
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to smartmirrors  ](https://www.reddit.com/r/smartmirrors/)
+[r/smartmirrors](https://www.reddit.com/r/smartmirrors/) • 3y ago
+[Infinite-Gift-6271](https://www.reddit.com/user/Infinite-Gift-6271/)
+#  Smart Mirror project need ideas 
+Hey guys I'm new here.  
+Basically, I'm a University student and I'm making a smart mirror using a raspberry pi and magicmirror for my final year project. My professor has told me that I need to make my mirror unique to get a pass as everything is made/coded already so I won't really be doing any work myself apart from putting it all together. He said even if I make my own simple program like a clock with an alarm that's fine as long as it's my own work.  
+So, I've bought PIR sensors and I'm gonna have motion sensors on my mirror so when there's no motion for 15 minutes the mirror will enter sleep mode to save power.  
+That's one of my features but I need more ideas and I'd appreciate if someone could also walk me through the process of implementing those ideas. Keep in mind, I'm a university student so be realistic with the ideas haha. 
+Read more 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with GoogleContinue with Google. Opens in new tab
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ Unique ideas for a smart mirror project  ](https://www.reddit.com/an
+2026-04-16 13:54:26,927 | INFO | Starting crawl for: https://www.reddit.com/r/Startup_Ideas/comments/96722c/a_smart_mirror_business_that_sells_worldwide/
+2026-04-16 13:54:28,522 | INFO | Successfully crawled: https://www.reddit.com/r/Startup_Ideas/comments/96722c/a_smart_mirror_business_that_sells_worldwide/ | Markdown length: 3528
+2026-04-16 13:54:28,523 | INFO | Crawled content for https://www.reddit.com/r/Startup_Ideas/comments/96722c/a_smart_mirror_business_that_sells_worldwide/:
+[ Skip to main content ](https://www.reddit.com/r/Startup_Ideas/comments/96722c/a_smart_mirror_business_that_sells_worldwide/#main-content) A smart mirror business that sells worldwide : r/Startup_Ideas
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/Startup_Ideas
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to Startup_Ideas  ](https://www.reddit.com/r/Startup_Ideas/)
+[r/Startup_Ideas](https://www.reddit.com/r/Startup_Ideas/) • 8y ago
+[deleted]
+#  A smart mirror business that sells worldwide 
+So, I was surfing the internet as usual and I was struck by this: <https://www.makeuseof.com/tag/6-best-raspberry-pi-smart-mirror-projects-weve-seen-far/> Basically, it's very easy to build a digital mirror and the cost of making and shipping it would be about 200 dollars and a few hours of work, and it looks like an amazing thing, especially if you are automating your home or you have a dress shop...so, why can't I buy it anywhere? Basically there's no competition, the only smart mirrors available cost about 1.500 dollars, and even if I sold my smart mirrors for 600 dollars I would get 3x markup and way more if I wanted to. So what about an online business that sells custom-sized smart mirrors? I could make a living out of it selling four pieces a month, but would you buy it? 
+Read more 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with GoogleContinue with Google. Opens in new tab
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ Tech trends shaping the future of startups  ](https://www.reddit.com/answers/c24666b9-727c-48fb-9720-d15056b84a0d/?q=Tech+trends+shaping+the+fut
+2026-04-16 13:54:28,523 | INFO | Starting crawl for: https://www.reddit.com/r/smartmirrors/comments/si6lg3/showcase_my_smart_mirror_in_2022/
+2026-04-16 13:54:29,784 | INFO | Successfully crawled: https://www.reddit.com/r/smartmirrors/comments/si6lg3/showcase_my_smart_mirror_in_2022/ | Markdown length: 4720
+2026-04-16 13:54:29,784 | INFO | Crawled content for https://www.reddit.com/r/smartmirrors/comments/si6lg3/showcase_my_smart_mirror_in_2022/:
+[ Skip to main content ](https://www.reddit.com/r/smartmirrors/comments/si6lg3/showcase_my_smart_mirror_in_2022/#main-content) Showcase: My Smart Mirror in 2022 : r/smartmirrors
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/smartmirrors
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to smartmirrors  ](https://www.reddit.com/r/smartmirrors/)
+[r/smartmirrors](https://www.reddit.com/r/smartmirrors/) • 4y ago
+[Mortaxz](https://www.reddit.com/user/Mortaxz/)
+#  Showcase: My Smart Mirror in 2022 
+Hi all, 
+I would like to share my Smart Mirror build in 2022. Build with a wooden frame, 27" monitor, special glass and running the software on a Raspberry PI 4. 
+[ ![r/smartmirrors - Front view](https://preview.redd.it/showcase-my-smart-mirror-in-2022-v0-abdhejtojaf81.png?width=1500&format=png&auto=webp&s=7db950b5b76bbc23d8bcd52120bb751f724346e0) ](https://preview.redd.it/showcase-my-smart-mirror-in-2022-v0-abdhejtojaf81.png?width=1500&format=png&auto=webp&s=7db950b5b76bbc23d8bcd52120bb751f724346e0 "Image from r/smartmirrors - Front view") Front view [ ![r/smartmirrors - Wooden side](https://preview.redd.it/showcase-my-smart-mirror-in-2022-v0-7d15jgtojaf81.png?width=1500&format=png&auto=webp&s=503afa30adb582974399501a4f862edbc999d19d) ](https://preview.redd.it/showcase-my-smart-mirror-in-2022-v0-7d15jgtojaf81.png?width=1500&format=png&auto=webp&s=503afa30adb582974399501a4f862edbc999d19d "Image from r/smartmirrors - Wooden side") Wooden side [ ![r/smartmirrors - Full view with background image](https://preview.redd.it/showcase-my-smart-mirror-in-2022-v0-9sae0ktojaf81.png?width=1500&format=png&auto=webp&s=3c39f08a2591ba920690c1bf1e723c71546df929) ](https://preview.redd.it/showcase-my-smart-mirror-in-2022-v0-9sae0ktojaf81.png?width=1500&format=png&auto=webp&s=3c39f08a2591ba920690c1bf1e723c71546df929 "Image from r/smartmirrors - Full view with background image") Full view with 
+2026-04-16 13:54:29,784 | INFO | Starting crawl for: https://www.reddit.com/r/smartmirrors/comments/a68hb1/make_your_own_smart_mirror_that_displays_weather/
+2026-04-16 13:54:30,851 | INFO | Successfully crawled: https://www.reddit.com/r/smartmirrors/comments/a68hb1/make_your_own_smart_mirror_that_displays_weather/ | Markdown length: 2965
+2026-04-16 13:54:30,851 | INFO | Crawled content for https://www.reddit.com/r/smartmirrors/comments/a68hb1/make_your_own_smart_mirror_that_displays_weather/:
+[ Skip to main content ](https://www.reddit.com/r/smartmirrors/comments/a68hb1/make_your_own_smart_mirror_that_displays_weather/#main-content) Make your own Smart Mirror that displays weather, steps and more - with Alexa in under 10 minutes. No Coding Required. : r/smartmirrors
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/smartmirrors
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to smartmirrors  ](https://www.reddit.com/r/smartmirrors/)
+[r/smartmirrors](https://www.reddit.com/r/smartmirrors/) • 7y ago
+[making_stuff6791](https://www.reddit.com/user/making_stuff6791/)
+#  Make your own Smart Mirror that displays weather, steps and more - with Alexa in under 10 minutes. No Coding Required. 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with GoogleContinue with Google. Opens in new tab
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ Unique smart mirror designs for small spaces  ](https://www.reddit.com/answers/e71683a8-9c0a-46ba-9d6b-688c7e8fd4da/?q=Unique+smart+mirror+designs+for+small+spaces&source=PDP)
+[ Best software for customizing smart mirrors  ](https://www.reddit.com/answers/673f5455-6efc-4446-99bc-bf375014470f/?q=Best+software+for+customizing+smart+mirrors&source=PDP)
+[ Creative uses for smart mirrors in home decor  ](https://www.reddit.com/answers/3f924a97-e358-4cca-a433-a47f856c5ce6/?q=Creative+uses+for+smart+mirrors+in+home+decor&source=PDP)
+[ Troubleshooting common smart mirror issues  ](https://www.reddit.com/answers/5df40487-645c-4a29-9ccd-6e702b1d6b6d/?q=Troubleshooting+common+smart+mirror+issues&source=PDP)
+[ Best display options for DIY smart 
+2026-04-16 13:54:30,851 | INFO | Starting crawl for: https://www.reddit.com/r/startups/comments/1gq3vod/i_just_had_the_best_idea_for_a_startup_wait_no_10/
+2026-04-16 13:54:32,492 | INFO | Successfully crawled: https://www.reddit.com/r/startups/comments/1gq3vod/i_just_had_the_best_idea_for_a_startup_wait_no_10/ | Markdown length: 3476
+2026-04-16 13:54:32,492 | INFO | Crawled content for https://www.reddit.com/r/startups/comments/1gq3vod/i_just_had_the_best_idea_for_a_startup_wait_no_10/:
+[ Skip to main content ](https://www.reddit.com/r/startups/comments/1gq3vod/i_just_had_the_best_idea_for_a_startup_wait_no_10/#main-content) I just had the best idea for a startup! Wait… no… 10 ideas! : r/startups
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/startups
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ ![](https://b.thumbs.redditmedia.com/c7zj4Bem2INlJARtR9RfI_MsFlzzFlc57sejeYfSFNA.png) Go to startups  ](https://www.reddit.com/r/startups/)
+[r/startups](https://www.reddit.com/r/startups/) • 1y ago
+[0nin_](https://www.reddit.com/user/0nin_/)
+#  I just had the best idea for a startup! Wait… no… 10 ideas! 
+  * LLM wrappers on existing saas tools 
+  * integrate everything all-in-one AI agent 
+  * founder/mentorship/indiehacker tools 
+  * piece of marketing (positioned as SaaS) 
+  * coding tools for your coding tools 
+  * AI automation to job hunt faster 
+  * Sales faster, with … AI 
+  * track all your things in one app, with Ai 
+  * build a site in seconds… AI + webflow 
+  * AI driven templates for your AI workflow 
+
+
+Seriously that’s all this sub is bye 👋 
+Read more 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with GoogleContinue with Google. Opens in new tab
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ Top strategies for startup funding  ](https://www.reddit.com/answers/b3172836-810f-479c-8a2a-06e83654b1b7/?q=Top+strategies+for+startup+funding&source=PDP)
+[ Common pitfalls in startup launches  ](https://www.reddit.com/answers/90780c22-4a2a-4106-85bc-64d454694be6/?q=Common+pitfalls+in+startup+launches&source=PDP)
+[ Effective ways to validate startup 
+2026-04-16 13:54:32,492 | INFO | Starting crawl for: https://www.reddit.com/r/startups/comments/1k4kk6n/5_brutal_questions_i_ask_before_building_any/
+2026-04-16 13:54:54,076 | INFO | Successfully crawled: https://www.reddit.com/r/startups/comments/1k4kk6n/5_brutal_questions_i_ask_before_building_any/ | Markdown length: 808
+2026-04-16 13:54:54,077 | INFO | Crawled content for https://www.reddit.com/r/startups/comments/1k4kk6n/5_brutal_questions_i_ask_before_building_any/:
+#  This site can’t be reached
+**www.reddit.com** took too long to respond.
+Try:
+  * Checking the connection
+  * [Checking the proxy and the firewall](#buttons)
+
+
+ERR_TIMED_OUT
+Reload 
+Details 
+Check your Internet connection
+Check any cables and reboot any routers, modems or other network devices you may be using.
+Allow Chromium to access the network in your firewall or antivirus settings.
+If it is already listed as a program allowed to access the network, try removing it from the list and adding it again.
+If you use a proxy server…
+Go to Applications > System Settings > Network, select the active network, click the Details… button and deselect any proxies that may have been selected.
+**www.reddit.com** took too long to respond.
+![](chrome-error://chromewebdata/) ![](chrome-error://chromewebdata/)
+
+2026-04-16 13:54:54,077 | INFO | Starting crawl for: https://www.reddit.com/r/Startup_Ideas/comments/1jh69fj/im_publishing_1_startup_idea_every_week_until_i/
+2026-04-16 13:54:55,147 | INFO | Successfully crawled: https://www.reddit.com/r/Startup_Ideas/comments/1jh69fj/im_publishing_1_startup_idea_every_week_until_i/ | Markdown length: 4849
+2026-04-16 13:54:55,147 | INFO | Crawled content for https://www.reddit.com/r/Startup_Ideas/comments/1jh69fj/im_publishing_1_startup_idea_every_week_until_i/:
+[ Skip to main content ](https://www.reddit.com/r/Startup_Ideas/comments/1jh69fj/im_publishing_1_startup_idea_every_week_until_i/#main-content) I’m publishing 1 startup idea every week until I hit on a winner. Here’s week 3. : r/Startup_Ideas
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/Startup_Ideas
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to Startup_Ideas  ](https://www.reddit.com/r/Startup_Ideas/)
+[r/Startup_Ideas](https://www.reddit.com/r/Startup_Ideas/) • 1y ago
+[Popeeeeee777](https://www.reddit.com/user/Popeeeeee777/)
+#  I’m publishing 1 startup idea every week until I hit on a winner. Here’s week 3. 
+I'm on a mission to create a hit product.  
+Since March, I've been publishing one service idea per week.  
+This week marks my third one! 
+# 1: GrowthTok
+  * A database of successful titles that leveraged TikTok 
+  * No need to dig through TikTok for viral content 
+  * A great source of inspiration for your own posts  
+Page: <https://growthtok.webflow.io/>
+
+
+Thoughts: 
+  * As a Webflow beginner, it took quite a bit of effort 
+  * I thought it had strong potential (like Mobbin!), but the response was a bit underwhelming 
+
+
+# 2: Consumer Startup Ideas
+  * I love consumer products, so I curated a list of niche, successful products with revenue data, product pages, and TikToks 
+  * I thought it might inspire others to see what unexpected things are actually selling 
+  * Created on Notion to speed things up  
+Page: <https://consumer-startup-ideas.super.site/>
+
+
+Result: 
+  * With just a light promo, got about 10 sign-ups 
+  * There might be a small but real demand for it 
+
+
+# 3: Personal Assistant AI "Riley"
+The world's first personal AI service that calls you every morning to help you manage your tasks. 
+  1. Get a call from "Riley" every morning 
+  2. Update your to-do list by talking 
+  3. Set reminders for anytime you like  
+Page: <https://eggplant-gruy
+2026-04-16 14:04:36,197 | INFO | User chose to stop
+2026-04-16 14:04:36,202 | INFO | Program ended
+2026-04-16 14:06:14,181 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-16 14:06:41,833 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-16 14:06:41,835 | INFO | Searching DDGS for query: smart mirror mental health competitors
+2026-04-16 14:06:42,852 | INFO | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=smart%20mirror%20mental%20health%20competitors 200
+2026-04-16 14:06:43,097 | INFO | response: https://grokipedia.com/api/typeahead?query=smart+mirror+mental+health+competitors&limit=1 200
+2026-04-16 14:06:44,738 | INFO | response: https://yandex.com/search/site/?text=smart+mirror+mental+health+competitors&web=1&searchid=3687231 200
+2026-04-16 14:06:44,747 | INFO | Found result | Title: Successful creation of a mirror that cares for mental health: The free... | URL: https://www.ecoticias.com/en/mental-health-bmind-smart-mirror/5198/
+2026-04-16 14:06:44,747 | INFO | Found result | Title: Smart Mirror Checked My Blood Pressure by Scanning My... - YouTube | URL: https://www.youtube.com/watch?v=rOVHk6gH4Nw
+2026-04-16 14:06:44,747 | INFO | Found result | Title: This smart mirror uses AI to read your mood, offer affirmations and... | URL: https://www.yahoo.com/lifestyle/smart-mirror-uses-ai-read-130500194.html
+2026-04-16 14:06:44,747 | INFO | Found result | Title: A Smart Mirror for Mental Wellness .. | URL: https://www.eenewseurope.com/en/a-smart-mirror-for-mental-wellness/
+2026-04-16 14:06:44,747 | INFO | Found result | Title: BMind: Smart Mirror, Mental Wellness Revolution – Dutchiee.TV... | URL: https://www.dutchiee.tv/news/bmind-smart-mirror-mental-wellness-revolution/
+2026-04-16 14:06:44,747 | INFO | Found result | Title: Anura® MagicMirror - NuraLogix | URL: https://www.nuralogix.ai/magic-mirror/
+2026-04-16 14:06:44,747 | INFO | Found result | Title: I'm a Makeup Artist—And I Let This AI-Powered Smart Mirror... - AOL | URL: https://www.aol.com/articles/im-makeup-artist-let-ai-200331497.html
+2026-04-16 14:06:44,748 | INFO | Found result | Title: Top Mental Health Competitors and Alternatives | Craft.co | URL: https://craft.co/mentalhealth/competitors
+2026-04-16 14:06:44,748 | INFO | Found result | Title: Mirror Mental Health: Reflecting on Emotional Well-being | URL: https://neurolaunch.com/mirror-mental-health/
+2026-04-16 14:06:44,748 | INFO | Found result | Title: Homepage - Mirror Mental Health | URL: https://mirrormentalhealth.com/
+2026-04-16 14:06:44,748 | INFO | Searching DDGS for query: smart mirror mental health competitors site:reddit.com
+2026-04-16 14:06:45,687 | INFO | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=smart%20mirror%20mental%20health%20competitors%20site%3Areddit.com 200
+2026-04-16 14:06:45,719 | INFO | response: https://grokipedia.com/api/typeahead?query=smart+mirror+mental+health+competitors+site%3Areddit.com&limit=1 200
+2026-04-16 14:06:46,731 | INFO | response: https://search.yahoo.com/search;_ylt=sBcGySBRqahls9oO5A3D4Hhr;_ylu=uU6Snr3GP3vPbOYi9afauqv1zJjLdYvjooTFc8b1uDmLEqM?p=smart+mirror+mental+health+competitors+site%3Areddit.com 200
+2026-04-16 14:06:47,555 | INFO | response: https://www.google.com/search?q=smart+mirror+mental+health+competitors+site%3Areddit.com&filter=1&start=0&hl=en-IN&lr=lang_en&cr=countryIN 200
+2026-04-16 14:06:49,233 | INFO | response: https://www.mojeek.com/search?q=smart+mirror+mental+health+competitors+site%3Areddit.com 200
+2026-04-16 14:06:49,393 | INFO | Found result | Title: Affective AI- Nuralogix's Smart Mirror that gives information ... | URL: https://www.reddit.com/r/PeterAttia/comments/1ccfgws/affective_ai_nuralogixs_smart_mirror_that_gives/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: Smart mirrors, Home Assistant or Magic Mirror? - Reddit | URL: https://www.reddit.com/r/homeautomation/comments/16b1xd2/smart_mirrors_home_assistant_or_magic_mirror/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: Smart Mirrors : r/smarthome - Reddit | URL: https://www.reddit.com/r/smarthome/comments/xnjrkj/smart_mirrors/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: The era of smart mirrors is coming？ : r/smartmirrors - Reddit | URL: https://www.reddit.com/r/smartmirrors/comments/1cvozm1/the_era_of_smart_mirrors_is_coming/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: A smart mirror that automatically displays health, nutrition ... | URL: https://www.reddit.com/r/QuantifiedSelf/comments/74c1kg/a_smart_mirror_that_automatically_displays_health/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: Smart Mirror Development Input : r/smartmirrors - Reddit | URL: https://www.reddit.com/r/smartmirrors/comments/5321v9/smart_mirror_development_input/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: [WP] You wake up from a coma. You were in a car crash caused by | URL: https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: During the protests, several users abandoned reddit in favor of | URL: https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: Alternatives for Alma / Grow / Path / Headway / SonderMind ... | URL: https://www.reddit.com/r/therapists/comments/12y0vcd/alternatives_for_alma_grow_path_headway/
+2026-04-16 14:06:49,393 | INFO | Found result | Title: NSA Orders Employees to Spy “With Dignity and Respect” : | URL: https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/
+2026-04-16 14:06:51,224 | INFO | Starting crawl for: https://www.ecoticias.com/en/mental-health-bmind-smart-mirror/5198/
+2026-04-16 14:06:53,778 | INFO | Successfully crawled: https://www.ecoticias.com/en/mental-health-bmind-smart-mirror/5198/ | Markdown length: 40890
+2026-04-16 14:06:53,778 | INFO | Crawled content for https://www.ecoticias.com/en/mental-health-bmind-smart-mirror/5198/:
+[Skip to content](https://www.ecoticias.com/en/mental-health-bmind-smart-mirror/5198/#content "Skip to content")
+[ ![ECOticias.com](https://www.ecoticias.com/en/wp-content/uploads/2025/12/logo-econews-2.png) ](https://www.ecoticias.com/en/ "ECOticias.com")
+Menu
+  * [Science](https://www.ecoticias.com/en/science/)
+  * [Mobility](https://www.ecoticias.com/en/mobility/)
+  * [Economy](https://www.ecoticias.com/en/economy/)
+  * [Energy](https://www.ecoticias.com/en/energy/)
+  * [Technology](https://www.ecoticias.com/en/technology/)
+  * [Environment](https://www.ecoticias.com/en/environment/)
+  * [Trending](https://www.ecoticias.com/en/trending-news/)
+  * [ECOticias](https://www.ecoticias.com/)
+
+
+[Home](https://www.ecoticias.com/en/) - [Technology](https://www.ecoticias.com/en/technology/) - Successful creation of a mirror that cares for mental health: The free psychologist at home with AI
+[Technology](https://www.ecoticias.com/en/technology/)
+# Successful creation of a mirror that cares for mental health: The free psychologist at home with AI
+![Image Autor](https://secure.gravatar.com/avatar/d608d785fed6cd703c8e1347dc5c7ac3e3cf55141e47c771d4ed508d7c2c4920?s=96&d=mm&r=g)
+By [Edwin O.](https://www.ecoticias.com/en/author/eco-news-e/)
+Published On: August 6, 2024 at 8:50 AM
+Follow Us
+[](https://news.google.com/publications/CAAqKAgKIiJDQklTRXdnTWFnOEtEV1ZqYjNScFkybGhjeTVqYjIwb0FBUAE?ceid=ES:es&oc=3&hl=es&gl=ES)
+Ver más
+Sustrato
+Productos ecológicos hogar
+Productos limpieza sostenibles
+The new addition of the BMind Smart Mirror into the Baracoda gadget family marks a significant step in using technology for mental health support. Announced at CES 2024, this device is the next-generation leap toward integrating mental health solutions into our day-to-day lives.
+BMind integrates artificial intelligence, computer vision, and natural language processing to build a mental health companion that can easily blend into the users’ lives. **This revolutionary product is set** to help so
+2026-04-16 14:06:53,778 | INFO | Starting crawl for: https://www.youtube.com/watch?v=rOVHk6gH4Nw
+2026-04-16 14:06:56,746 | INFO | Successfully crawled: https://www.youtube.com/watch?v=rOVHk6gH4Nw | Markdown length: 1450
+2026-04-16 14:06:56,746 | INFO | Crawled content for https://www.youtube.com/watch?v=rOVHk6gH4Nw:
+Smart Mirror Checked My Blood Pressure by Scanning My Face
+[](https://www.youtube.com/watch?v=rOVHk6gH4Nw)
+Tap to unmute
+2x
+Search
+Copy link
+Info
+Shopping
+If playback doesn't begin shortly, try restarting your device.
+•
+Up next
+Live Upcoming
+CancelPlay now
+You're signed out
+Videos that you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+CancelConfirm
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+0:00 / 2:58
+Live
+•Watch full video
+•
+•
+[](https://www.youtube.com/ "YouTube")[](https://www.youtube.com/ "YouTube")
+[About](https://www.youtube.com/about/)[Press](https://www.youtube.com/about/press/)[Copyright](https://www.youtube.com/about/copyright/)[Contact us](https://www.youtube.com/t/contact_us/)[Creator](https://www.youtube.com/creators/)[Advertise](https://www.youtube.com/ads/)[Developers](https://developers.google.com/youtube)[Terms](https://www.youtube.com/t/terms)[Privacy](https://www.youtube.com/t/privacy)[Policy & Safety](https://www.youtube.com/about/policies/)[How YouTube works](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)[Test new features](https://www.youtube.com/new)
+© 2026 Google LLC
+
+2026-04-16 14:06:56,746 | INFO | Starting crawl for: https://www.yahoo.com/lifestyle/smart-mirror-uses-ai-read-130500194.html
+2026-04-16 14:06:58,210 | INFO | Successfully crawled: https://www.yahoo.com/lifestyle/smart-mirror-uses-ai-read-130500194.html | Markdown length: 8282
+2026-04-16 14:06:58,210 | INFO | Crawled content for https://www.yahoo.com/lifestyle/smart-mirror-uses-ai-read-130500194.html:
+[](https://www.yahoo.com/lifestyle/)
+Search query
+Search with Yahoo Scout
+Search the web
+  * [Skip to main](https://www.yahoo.com/lifestyle/smart-mirror-uses-ai-read-130500194.html#article-container)
+
+
+[News](https://www.yahoo.com/)
+[Finance](https://finance.yahoo.com/)
+[Sports](https://sports.yahoo.com/)
+More
+[Mail](https://mail.yahoo.com/)
+Advertisement
+Advertisement
+[](https://www.yahoo.com)
+[Return to Homepage](https://www.yahoo.com)
+## Don't Miss: 
+  * [20-min nap boosts focus](https://creators.yahoo.com/lifestyle/story/a-20-minute-nap-can-improve-your-focus-and-energy--heres-why-it-works-172238685.html)
+  * [![](https://s.yimg.com/cv/apiv2/crushable/20260222/red_stripe.png)Play Crushable by Candy Crush![](https://s.yimg.com/cv/apiv2/crushable/20260222/green_stripe.png)](https://www.yahoo.com/games/play/crushable/?ncid=yahooproperties_articletop_crushable)
+  * [Reese’s April romance pick](https://creators.yahoo.com/lifestyle/story/a-story-that-really-stayed-with-me-reeses-book-club-pick-for-april-is-a-steamy-second-chance-romance-153641328.html)
+  * [Jet-setting bride tech musts](https://creators.yahoo.com/lifestyle/story/from-plane-to-aisle-must-have-devices-for-the-jet-setting-bride-235439128.html)
+  * [How to pack shoes cleanly](https://creators.yahoo.com/lifestyle/story/stop-being-gross-when-you-pack-your-shoes-tips-for-preventing-dirty-soles-from-touching-your-clean-stuff-145531900.html)
+  * [Uses or beef tallow](https://creators.yahoo.com/lifestyle/story/what-is-beef-tallow-how-to-use-it-and-why-its-worth-keeping-around-133000303.html)
+  * [Afternoon snack energy boost](https://creators.yahoo.com/lifestyle/story/i-changed-my-afternoon-snack--now-i-have-more-energy-every-day-225551585.html)
+  * [YouTube chefs cooking challenge](https://creators.yahoo.com/lifestyle/story/i-put-youtubes-biggest-chefs-through-my-hardest-cooking-challenge-ever-160000237.html)
+  * [Dark chocolate & mental health](https://creators.yahoo.com/lifestyle/story/a-doctor-explains-why-
+2026-04-16 14:06:58,210 | INFO | Starting crawl for: https://www.eenewseurope.com/en/a-smart-mirror-for-mental-wellness/
+2026-04-16 14:07:03,679 | INFO | Successfully crawled: https://www.eenewseurope.com/en/a-smart-mirror-for-mental-wellness/ | Markdown length: 15924
+2026-04-16 14:07:03,680 | INFO | Crawled content for https://www.eenewseurope.com/en/a-smart-mirror-for-mental-wellness/:
+![](https://www.eenewseurope.com/en/a-smart-mirror-for-mental-wellness/)
+MENU
+[![](https://cdn.eenewseurope.com/wp-content/themes/eetimes/assets/images/smart-tz.png)](https://www.smart2zero.com)
+  * [Europe](https://www.eenewseurope.com/)
+  * [Analog](https://www.eenewsanalog.com/)
+  * [Automotive](https://www.eenewsautomotive.com/)
+  * [Embedded](https://www.eenewsembedded.com/)
+  * [Power](https://www.eenewspower.com/)
+  * [Wireless](https://www.eenewswireless.com/)
+  * [Smart2.0](https://www.smart2zero.com/)
+  * [ECINews.fr](https://www.ecinews.fr/fr)
+
+
+![](https://www.elektormagazine.com/waitress/takeaway/277/image)
+  * [About](https://www.eenewseurope.com/en/about-smart2zero/)
+    * [About Smart2Zero](https://www.eenewseurope.com/en/about-smart2zero/)
+    * [S2Z Sales Contacts](https://www.eenewseurope.com/en/s2z-sales-contacts/)
+    * [Main Office Contacts Smart2Zero](https://www.eenewseurope.com/en/main-office-contacts-smart2zero/)
+    * [Media Kit Smart2Zero](https://www.eenewseurope.com/en/media-kit-smart2zero/)
+  * [Learning Center](https://www.eenewseurope.com/en/white_papers/)
+    * [White Papers](https://www.eenewseurope.com/en/white_papers/)
+    * [Webinars](https://www.eenewseurope.com/en/webinars/)
+  * [News](https://www.eenewseurope.com/en/news/)
+  * [Events](https://www.eenewseurope.com/en/event/)
+  * [Other sites](https://www.eenewseurope.com/en/a-smart-mirror-for-mental-wellness/)
+    * [eeNews Europe](https://www.eenewseurope.com)
+    * [eeNews Analog](https://www.eenewsanalog.com)
+    * [eeNews Automotive](https://www.eenewsautomotive.com)
+    * [eeNews Embedded](https://www.eenewsembedded.com)
+    * [eeNews Power](https://www.eenewspower.com)
+    * [eeNews Wireless](https://www.eenewswireless.com)
+    * [Electronique-ECI](https://www.ecinews.fr)
+    * [Smart2.0](https://www.smart2zero.com)
+  * [ ](https://www.eenewseurope.com/en/mautic)
+
+
+  * [About](https://www.eenewseurope.com/en/about-smart2zero/)
+  * [Learning Center](https://www.eenewseur
+2026-04-16 14:07:03,680 | INFO | Starting crawl for: https://www.dutchiee.tv/news/bmind-smart-mirror-mental-wellness-revolution/
+2026-04-16 14:07:07,251 | INFO | Successfully crawled: https://www.dutchiee.tv/news/bmind-smart-mirror-mental-wellness-revolution/ | Markdown length: 26222
+2026-04-16 14:07:07,251 | INFO | Crawled content for https://www.dutchiee.tv/news/bmind-smart-mirror-mental-wellness-revolution/:
+  * [Instagram](https://www.instagram.com/dutchieetv/)
+  * [YouTube](https://www.youtube.com/Dutchieetv)
+  * [All socials](https://www.dutchiee.tv/socials/)
+
+
+  * [Search](https://www.dutchiee.tv/search/)
+  * [Awards](https://www.dutchiee.tv/awards/)
+  * [Advertise](https://www.dutchiee.tv/advertise/)
+  * [About](https://www.dutchiee.tv/about-dutchiee/)
+  * [Contact](https://www.dutchiee.tv/contact/)
+  * [FAQ](https://www.dutchiee.tv/faq/)
+
+
+[![](https://www.dutchiee.tv/wp-content/uploads/2020/09/logo-dutchiee.svg)](https://www.dutchiee.tv/)
+[Menu](https://www.dutchiee.tv/news/bmind-smart-mirror-mental-wellness-revolution/)
+  * [Home](https://www.dutchiee.tv/)
+  * [Reviews](https://www.dutchiee.tv/reviews/)
+    * [All Reviews](https://www.dutchiee.tv/reviews/)
+    * [Dutch reviews](https://www.dutchiee.tv/dutch-reviews/)
+  * [News](https://www.dutchiee.tv/news/)
+  * [Categories](https://www.dutchiee.tv/review-categories/)
+  * [Videos](https://www.dutchiee.tv/videos/)
+  * [Subscribe](https://www.dutchiee.tv/subscribe/)
+  * [Socials](https://www.dutchiee.tv/socials/)
+
+
+[Menu](https://www.dutchiee.tv/news/bmind-smart-mirror-mental-wellness-revolution/)
+  * [Home](https://www.dutchiee.tv/)
+  * [Reviews](https://www.dutchiee.tv/reviews/)
+  * [Dutch reviews](https://www.dutchiee.tv/dutch-reviews/)
+  * [News](https://www.dutchiee.tv/news/)
+  * [Categories](https://www.dutchiee.tv/review-categories/)
+  * [Videos](https://www.dutchiee.tv/videos/)
+  * [Subscribe](https://www.dutchiee.tv/subscribe/)
+  * [Socials](https://www.dutchiee.tv/socials/)
+
+
+[Home](https://www.dutchiee.tv/)
+/
+[News](https://www.dutchiee.tv/categories/news/)
+/
+[BMind: Smart Mirror, Mental Wellness Revolution](https://www.dutchiee.tv/news/bmind-smart-mirror-mental-wellness-revolution/)
+# BMind: Smart Mirror, Mental Wellness Revolution
+[News](https://www.dutchiee.tv/categories/news/)
+[![https://www.dutchiee.tv/ BMind Smart Mirror, Mental Wellness Revolution](https://www.dutchiee.tv/wp-content/uploads/2024/
+2026-04-16 14:07:07,251 | INFO | Starting crawl for: https://www.nuralogix.ai/magic-mirror/
+2026-04-16 14:07:21,836 | INFO | Successfully crawled: https://www.nuralogix.ai/magic-mirror/ | Markdown length: 8243
+2026-04-16 14:07:21,836 | INFO | Crawled content for https://www.nuralogix.ai/magic-mirror/:
+[ ![NuraLogix](https://www.nuralogix.ai/wp-content/uploads/2021/03/Nuralogix-Logo.png) ](https://www.nuralogix.ai/)
+  * [Home](https://www.nuralogix.ai/)
+  * [Technology](https://www.nuralogix.ai/technology/)
+    * [DeepAffex®](https://www.nuralogix.ai/deep-affex/)
+    * [Security](https://www.nuralogix.ai/security-compliance/)
+  * [Research](https://www.nuralogix.ai/research/)
+  * [Products](https://www.nuralogix.ai/magic-mirror/)
+    * [Anura®](https://www.nuralogix.ai/anura/)
+    * [Anura® Enterprise](https://www.nuralogix.ai/anura-enterprise/)
+    * [Anura® Telehealth](https://www.nuralogix.ai/telehealth/)
+    * [Anura® MagicMirror™](https://www.nuralogix.ai/magic-mirror/)
+    * [Longevity Mirror™](https://longevitymirror.com/)
+    * [Anura® Web Measurement Service (WMS)](https://www.nuralogix.ai/web-measurement-service/)
+    * [Software Development Kit (SDK)](https://www.nuralogix.ai/sdk/)
+  * [News](https://www.nuralogix.ai/updates/)
+  * [Company](https://www.nuralogix.ai/company/)
+  * [Get in Touch](https://www.nuralogix.ai/get-in-touch/)
+
+
+Select Page
+  * [Home](https://www.nuralogix.ai/)
+  * [Technology](https://www.nuralogix.ai/technology/)
+    * [DeepAffex®](https://www.nuralogix.ai/deep-affex/)
+    * [Security](https://www.nuralogix.ai/security-compliance/)
+  * [Research](https://www.nuralogix.ai/research/)
+  * [Products](https://www.nuralogix.ai/magic-mirror/)
+    * [Anura®](https://www.nuralogix.ai/anura/)
+    * [Anura® Enterprise](https://www.nuralogix.ai/anura-enterprise/)
+    * [Anura® Telehealth](https://www.nuralogix.ai/telehealth/)
+    * [Anura® MagicMirror™](https://www.nuralogix.ai/magic-mirror/)
+    * [Longevity Mirror™](https://longevitymirror.com/)
+    * [Anura® Web Measurement Service (WMS)](https://www.nuralogix.ai/web-measurement-service/)
+    * [Software Development Kit (SDK)](https://www.nuralogix.ai/sdk/)
+  * [News](https://www.nuralogix.ai/updates/)
+  * [Company](https://www.nuralogix.ai/company/)
+  * [Get in Touch](https://www.nuralo
+2026-04-16 14:07:21,836 | INFO | Starting crawl for: https://www.aol.com/articles/im-makeup-artist-let-ai-200331497.html
+2026-04-16 14:07:24,421 | INFO | Successfully crawled: https://www.aol.com/articles/im-makeup-artist-let-ai-200331497.html | Markdown length: 24212
+2026-04-16 14:07:24,421 | INFO | Crawled content for https://www.aol.com/articles/im-makeup-artist-let-ai-200331497.html:
+Advertisement
+  * [Home](https://www.aol.com/ "Home")
+  * [ Noida, UP Noida, UP Local News ](https://www.aol.com/local/ "Local")
+  * [Subscriptions](https://www.aol.com/products?ncid=mbr_rusacqlnk00000036 "Subscriptions")
+  * [Animals](https://www.aol.com/animals/ "Animals")
+  * [Entertainment](https://www.aol.com/entertainment/ "Entertainment")
+  * Finance
+  * [Food](https://www.aol.com/food/ "Food")
+  * [Games](https://www.aol.com/games/ "Games")
+  * Health
+  * [Home & Garden](https://www.aol.com/home-garden/ "Home & Garden")
+  * News
+  * [Shopping](https://www.aol.com/shopping/ "Shopping")
+  * [Style](https://www.aol.com/style/ "Style")
+  * [Travel](https://www.aol.com/travel/ "Travel")
+  * [True Crime](https://www.aol.com/true-crime/ "True Crime")
+
+
+  * Back
+  * Finance
+  * [Finance](https://www.aol.com/finance/ "Finance")
+  * [Banking](https://www.aol.com/finance/banking/ "Banking")
+  * [Business News](https://www.aol.com/news/business/ "Business News")
+  * [Estate & Retirement Planning](https://www.aol.com/finance/retirement-planning/ "Estate & Retirement Planning")
+  * [Loans & Mortgages](https://www.aol.com/finance/mortgages/ "Loans & Mortgages")
+
+
+  * Back
+  * Health
+  * [Health](https://www.aol.com/health/ "Health")
+  * [Medicare](https://www.aol.com/health/medicare/ "Medicare")
+
+
+  * Back
+  * News
+  * [News](https://www.aol.com/news/ "News")
+  * [Business](https://www.aol.com/news/business/ "Business")
+  * [Lighter Side](https://www.aol.com/news/lighter "Lighter Side")
+  * [Politics](https://www.aol.com/news/politics/ "Politics")
+  * [Science & Tech](https://www.aol.com/news/science-tech/ "Science & Tech")
+  * [Sports](https://www.aol.com/news/sports/ "Sports")
+  * [Weather](https://www.aol.com/weather/ "Weather")
+
+
+Menu
+[](https://www.aol.com/ "Click here to refresh")
+24/7 Help
+For premium support please call:
+[800-290-4726](tel:800-290-4726)[more ways to reach us](https://help.aol.com/contact/)
+[Sign in](https://oidc.www.aol.com/login/?lang=en-us&intl=u
+2026-04-16 14:07:24,421 | INFO | Starting crawl for: https://craft.co/mentalhealth/competitors
+2026-04-16 14:07:26,026 | INFO | Successfully crawled: https://craft.co/mentalhealth/competitors | Markdown length: 11118
+2026-04-16 14:07:26,026 | INFO | Crawled content for https://craft.co/mentalhealth/competitors:
+[![Craft Logo](https://craft.co/mentalhealth/competitors)](https://craft.co/)
+[Advanced](https://craft.co/search?order=size_desc)
+  * Product
+    *       * Intelligence Suite
+      * [Supplier Intelligence Platform](https://enterprise.craft.co/solutions/supplier-intelligence?utm_source=craftco&utm_medium=header)
+      * [Craft Intelligence Portal](https://enterprise.craft.co/products/portal?utm_source=craftco&utm_medium=header)
+      * [Craft API](https://enterprise.craft.co/craft-api?utm_source=craftco&utm_medium=header)
+      * [Craft for Teams](https://enterprise.craft.co/craft-for-teams?utm_source=craftco&utm_medium=header)
+    *       * Supplier Intelligence Platform
+      * [Craft Alerts](https://enterprise.craft.co/products/alerts?utm_source=craftco&utm_medium=header)
+      * [Craft N-Tier Mapping](https://enterprise.craft.co/products/n-tier?utm_source=craftco&utm_medium=header)
+      * [Craft Risk Hub](https://enterprise.craft.co/products/risk-hub?utm_source=craftco&utm_medium=header)
+  * Solutions
+    *       * [Supplier Intelligence](https://enterprise.craft.co/solutions/supplier-intelligence?utm_source=craftco&utm_medium=header)
+      * [Sales Intelligence](https://enterprise.craft.co/solutions/sales-intelligence?utm_source=craftco&utm_medium=header)
+      * [Aerospace and Defense](https://enterprise.craft.co/solutions/aerospace-and-defense?utm_source=craftco&utm_medium=header)
+  * Partners
+    *       * [Data Partners](https://enterprise.craft.co/solutions/supplier-intelligence?utm_source=craftco&utm_medium=header)
+  * Resources
+    *       * [Resource center](https://enterprise.craft.co/resources?utm_source=craftco&utm_medium=header)
+      * [Blog](https://enterprise.craft.co/blog?utm_source=craftco&utm_medium=header)
+  * Company
+    *       * [About](https://enterprise.craft.co/company/about?utm_source=craftco&utm_medium=header)
+      * [Careers](https://enterprise.craft.co/careers?utm_source=craftco&utm_medium=header)
+
+
+  * [Overview](https://craft.co
+2026-04-16 14:07:26,026 | INFO | Starting crawl for: https://neurolaunch.com/mirror-mental-health/
+2026-04-16 14:07:31,058 | INFO | Successfully crawled: https://neurolaunch.com/mirror-mental-health/ | Markdown length: 24600
+2026-04-16 14:07:31,059 | INFO | Crawled content for https://neurolaunch.com/mirror-mental-health/:
+[![NeuroLaunch.com](https://neurolaunch.com/wp-content/uploads/2025/02/neurolaunch-logo.png.webp)](https://neurolaunch.com/)
+  * [ Home ](https://neurolaunch.com/)
+  * [ About Us ](https://neurolaunch.com/about/)
+  * [ Categories](https://neurolaunch.com/mirror-mental-health/)
+    * [General Categories](https://neurolaunch.com/categories/)
+    * [Psychology](https://neurolaunch.com/psychology/)
+    * [Stress](https://neurolaunch.com/stress/)
+    * [Mental Health](https://neurolaunch.com/mental-health/)
+    * [Anxiety](https://neurolaunch.com/anxiety/)
+    * [The Brain](https://neurolaunch.com/the-brain/)
+    * [Sleep](https://neurolaunch.com/sleep/)
+    * [Dopamine](https://neurolaunch.com/dopamine/)
+    * [IQ and Intelligence](https://neurolaunch.com/iq/)
+    * [Attachment](https://neurolaunch.com/attachment/)
+    * [OCD](https://neurolaunch.com/ocd/)
+    * [CBT](https://neurolaunch.com/cbt/)
+    * [Happiness](https://neurolaunch.com/happiness/)
+  * [ Disorders](https://neurolaunch.com/mirror-mental-health/)
+    * [Therapy](https://neurolaunch.com/therapy/)
+    * [ADHD](https://neurolaunch.com/adhd/)
+    * [PTSD](https://neurolaunch.com/ptsd/)
+    * [Alzheimers](https://neurolaunch.com/alzheimers/)
+    * [Burnout](https://neurolaunch.com/burnout/)
+    * [Autism](https://neurolaunch.com/autism/)
+    * [Bipolar Disorder](https://neurolaunch.com/bipolar-disorder/)
+  * [ Editorial Team ](https://neurolaunch.com/editorial-team/)
+  * [ Contact Us ](https://neurolaunch.com/contact-us/)
+
+
+[](https://passport.neurolaunch.com?utm_source=neurolaunch.com&utm_campaign=header_btn&utm_term=autism_screening_49)
+[![NeuroLaunch.com](https://neurolaunch.com/mirror-mental-health/)](https://neurolaunch.com/)
+  * [ Home ](https://neurolaunch.com/)
+  * [ About Us ](https://neurolaunch.com/about/)
+  * [ Categories](https://neurolaunch.com/mirror-mental-health/)
+    * [General Categories](https://neurolaunch.com/categories/)
+    * [Psychology](https://neurolaunch.com/psychology/)
+    * [St
+2026-04-16 14:07:31,059 | INFO | Starting crawl for: https://mirrormentalhealth.com/
+2026-04-16 14:07:38,363 | INFO | Successfully crawled: https://mirrormentalhealth.com/ | Markdown length: 7481
+2026-04-16 14:07:38,363 | INFO | Crawled content for https://mirrormentalhealth.com/:
+[(443) 292-4570](tel:\(443\)292-4570) info@mirrormentalhealth.com The best way to contact us is via email. Live fully. Live authentically. 
+  * [Home](https://mirrormentalhealth.com/)
+  * [About Us](https://mirrormentalhealth.com/about-mirror-mental-health/)
+  * [Treatments](https://mirrormentalhealth.com/treatments/)
+    * [Individual](https://mirrormentalhealth.com/treatments/#individual)
+    * [Adolescent](https://mirrormentalhealth.com/treatments/#adolescent)
+    * [Geriatric](https://mirrormentalhealth.com/treatments/#geriatric)
+    * [Couples](https://mirrormentalhealth.com/treatments/#couples)
+    * [What does MMH treat?](https://mirrormentalhealth.com/treatments/#treatments)
+  * [Get Started](https://mirrormentalhealth.com/start/)
+    * [Waitlist](https://mirrormentalhealth.com/waitlist/)
+    * [Assessments](https://mirrormentalhealth.com/start/#assessments)
+    * [Online Therapy](https://mirrormentalhealth.com/start/#online-therapy)
+    * [Intake Paperwork](https://mirrormentalhealth.com/start/#intake)
+    * [Payment Options](https://mirrormentalhealth.com/start/#payment)
+    * [FAQs](https://mirrormentalhealth.com/resources/)
+  * [Make Payment](https://quickclick.com/r/k2s2e)
+  * [Contact Us](https://mirrormentalhealth.com/contact-us/)
+  * [Login](https://www.therapyportal.com/p/mirrormental/login/)
+
+
+[](https://mirrormentalhealth.com/)
+[ ![Live Fully. Live Authentically.](https://mirrormentalhealth.com/wp-content/uploads/2019/03/mmh-logo.png) ![Live Fully. Live Authentically.](https://mirrormentalhealth.com/wp-content/uploads/2019/03/mmh-logo.png) ![Live Fully. Live Authentically.](https://mirrormentalhealth.com/wp-content/uploads/2019/03/mmh-logo.png) ](https://mirrormentalhealth.com/ "Mirror Mental Health")
+[ LOGIN ](https://mirrormentalhealth.com/)
+  * [Home](https://mirrormentalhealth.com/)
+  * [About Us](https://mirrormentalhealth.com/about-mirror-mental-health/)
+  * [Treatments](https://mirrormentalhealth.com/treatments/)
+    * [Individual](https://
+2026-04-16 14:07:38,363 | INFO | Starting crawl for: https://www.reddit.com/r/PeterAttia/comments/1ccfgws/affective_ai_nuralogixs_smart_mirror_that_gives/
+2026-04-16 14:07:39,453 | INFO | Successfully crawled: https://www.reddit.com/r/PeterAttia/comments/1ccfgws/affective_ai_nuralogixs_smart_mirror_that_gives/ | Markdown length: 585
+2026-04-16 14:07:39,453 | INFO | Crawled content for https://www.reddit.com/r/PeterAttia/comments/1ccfgws/affective_ai_nuralogixs_smart_mirror_that_gives/:
+[ ![](https://www.reddit.com/r/PeterAttia/comments/1ccfgws/affective_ai_nuralogixs_smart_mirror_that_gives/) ](https://www.reddit.com)
+# Prove your humanity
+We’re committed to safety and security. But not for bots. Complete the challenge below and let us know you’re a real person. 
+[Reddit, Inc. © "2026". All rights reserved.](https://www.redditinc.com/)
+[User Agreement](https://www.reddit.com/help/useragreement) [Privacy Policy](https://www.reddit.com/help/privacypolicy) [Content Policy](https://www.reddit.com/help/contentpolicy) [Help](https://support.reddithelp.com/hc/en-us)
+
+2026-04-16 14:07:39,453 | INFO | Starting crawl for: https://www.reddit.com/r/homeautomation/comments/16b1xd2/smart_mirrors_home_assistant_or_magic_mirror/
+2026-04-16 14:07:41,469 | INFO | Successfully crawled: https://www.reddit.com/r/homeautomation/comments/16b1xd2/smart_mirrors_home_assistant_or_magic_mirror/ | Markdown length: 3622
+2026-04-16 14:07:41,470 | INFO | Crawled content for https://www.reddit.com/r/homeautomation/comments/16b1xd2/smart_mirrors_home_assistant_or_magic_mirror/:
+[ Skip to main content ](https://www.reddit.com/r/homeautomation/comments/16b1xd2/smart_mirrors_home_assistant_or_magic_mirror/?solution=4c6fc210da652e2c4c6fc210da652e2c&js_challenge=1&token=bbbe4bf1c9a2b5160829c4be34da586124a38017b6a3c45c8f8b8121c2e97a9a#main-content)
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/homeautomation
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ ![](https://styles.redditmedia.com/t5_2s8wn/styles/communityIcon_hqloga2l4zh01.png?width=96&height=96&frame=1&auto=webp&crop=96%3A96%2Csmart&s=3ef1ca704ac35e3b4bf951e0ba0f52b138eb6d68) Go to homeautomation  ](https://www.reddit.com/r/homeautomation/)
+[r/homeautomation](https://www.reddit.com/r/homeautomation/) • 3y ago
+[HaasonHeist](https://www.reddit.com/user/HaasonHeist/)
+#  Smart mirrors, Home Assistant or Magic Mirror? 
+[ QUESTION  ](https://www.reddit.com/r/homeautomation/?f=flair_name%3A%22QUESTION%22)
+I've been wanting to build a smart mirror for a long time now and finally got my hands on an RPi 4. 
+I have most of the equipment needed. But wondering what the best software would be for the build. 
+I essentially just want it to show weather commute info, my exercise and fit data from Garmin or Google, and have recurring to-do lists for the morning and evening. (perhaps with backflow green=tasks completed and red is incomplete/notifications) 
+All of my other home automation needs are essentially met with Google systems. 
+Any recommendations? 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ Top smart home devices for beginners  ](https://www.reddit.com
+2026-04-16 14:07:41,470 | INFO | Starting crawl for: https://www.reddit.com/r/smarthome/comments/xnjrkj/smart_mirrors/
+2026-04-16 14:07:42,672 | INFO | Successfully crawled: https://www.reddit.com/r/smarthome/comments/xnjrkj/smart_mirrors/ | Markdown length: 3261
+2026-04-16 14:07:42,672 | INFO | Crawled content for https://www.reddit.com/r/smarthome/comments/xnjrkj/smart_mirrors/:
+[ Skip to main content ](https://www.reddit.com/r/smarthome/comments/xnjrkj/smart_mirrors/#main-content) Smart Mirrors : r/smarthome
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/smarthome
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ ![](https://styles.redditmedia.com/t5_2sxlm/styles/communityIcon_hb7inyjvwbtf1.png?width=96&height=96&frame=1&auto=webp&crop=96%3A96%2Csmart&s=d6d97f74847ec166dd1d4595cebbf78713aeec13) Go to smarthome  ](https://www.reddit.com/r/smarthome/)
+[r/smarthome](https://www.reddit.com/r/smarthome/) • 4y ago
+[wusterine](https://www.reddit.com/user/wusterine/)
+#  Smart Mirrors 
+Hello everyone, maybe someone here can help me. I always wanted to have a smart mirror but thought it was way too expensive; I recently saw online that you could have some larges ones (for your bathroom) for an ok-ish price. But I would like one for my room (a stand or wall mirror) or my living room (a wall mirror), and I can't find many options online. 
+Does anyone know a website/brand that has more options for smart mirrors and delivery to Europe? 
+Read more 
+Archived post. New comments cannot be posted and votes cannot be cast. 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ Best smart mirrors for bathrooms  ](https://www.reddit.com/answers/8af7fa45-3a8a-4828-bcc3-1e369d061c81/?q=Best+smart+mirrors+for+bathrooms&source=PDP)
+[ DIY smart mirror ideas  ](https://www.reddit.com/answers/b8c64aa6-3b60-4608-aeb7-ee7796001ada/?q=DIY+smart+mirror+ideas&source=PDP)
+[ Best smart mirror options for developers  ](https://www.reddit.com/answ
+2026-04-16 14:07:42,672 | INFO | Starting crawl for: https://www.reddit.com/r/smartmirrors/comments/1cvozm1/the_era_of_smart_mirrors_is_coming/
+2026-04-16 14:07:43,734 | INFO | Successfully crawled: https://www.reddit.com/r/smartmirrors/comments/1cvozm1/the_era_of_smart_mirrors_is_coming/ | Markdown length: 3046
+2026-04-16 14:07:43,734 | INFO | Crawled content for https://www.reddit.com/r/smartmirrors/comments/1cvozm1/the_era_of_smart_mirrors_is_coming/:
+[ Skip to main content ](https://www.reddit.com/r/smartmirrors/comments/1cvozm1/the_era_of_smart_mirrors_is_coming/#main-content) The era of smart mirrors is coming？ : r/smartmirrors
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/smartmirrors
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to smartmirrors  ](https://www.reddit.com/r/smartmirrors/)
+[r/smartmirrors](https://www.reddit.com/r/smartmirrors/) • 2y ago
+[mirrorsmart](https://www.reddit.com/user/mirrorsmart/)
+#  The era of smart mirrors is coming？ 
+I just returned from the Shanghai Bathroom Exhibition, the largest bathroom products expo in the world. The entire exhibition was abuzz with one topic: smart mirrors. Renowned brands such as ROCA, TOTO, MOEN, and JOMOO, among others, showcased their latest [smart mirrors.](https://verconsmartmirror.com/product/smart-bathroom-mirror/) I believe that by the end of this year or early next year, this industry will experience a significant boom, what do you think ? 
+Read more 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ Best smart mirrors available  ](https://www.reddit.com/answers/197ada3d-3fb5-4f27-a797-60e4bd1e89bf/?q=Best+smart+mirrors+available&source=PDP)
+[ Smart bathroom mirrors with TV features  ](https://www.reddit.com/answers/c4898cc8-fa28-40b6-8817-2a078059641b/?q=Smart+bathroom+mirrors+with+TV+features&source=PDP)
+[ Touchscreen smart mirror options  ](https://www.reddit.com/answers/d9cd2de7-9050-46c4-8a25-6c696be670a1/?q=Touchscreen+smart+mirror+options&source=PDP)
+[ DIY magic mirror ideas  ](https://www.reddit.c
+2026-04-16 14:07:43,734 | INFO | Starting crawl for: https://www.reddit.com/r/QuantifiedSelf/comments/74c1kg/a_smart_mirror_that_automatically_displays_health/
+2026-04-16 14:07:44,885 | INFO | Successfully crawled: https://www.reddit.com/r/QuantifiedSelf/comments/74c1kg/a_smart_mirror_that_automatically_displays_health/ | Markdown length: 4044
+2026-04-16 14:07:44,885 | INFO | Crawled content for https://www.reddit.com/r/QuantifiedSelf/comments/74c1kg/a_smart_mirror_that_automatically_displays_health/:
+[ Skip to main content ](https://www.reddit.com/r/QuantifiedSelf/comments/74c1kg/a_smart_mirror_that_automatically_displays_health/#main-content) A smart mirror that automatically displays health, nutrition and fitness data : r/QuantifiedSelf
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/QuantifiedSelf
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to QuantifiedSelf  ](https://www.reddit.com/r/QuantifiedSelf/)
+[r/QuantifiedSelf](https://www.reddit.com/r/QuantifiedSelf/) • 9y ago
+[making_stuff6791](https://www.reddit.com/user/making_stuff6791/)
+#  A smart mirror that automatically displays health, nutrition and fitness data 
+I've spent more than a year designing and developing a smart mirror named [Mango Mirror](https://www.mangomirror.com) that can display health, fitness and nutrition (ex. via MyFitnessPal App) metrics captured via the iPhone or Fitbit or any other connected health device (weight scale, Blood Glucose, Blood Sugar monitors, etc.) that works with Apple Health. 
+The offline QS community has provided me with feedback during the building process and I would like to get feedback from users here on the product and if they see if providing any value to QS users or users that are just starting to get into the QS movement with the purchase of a Fitbit/apple watch - details of all widgets displayed can be found on the website [www.mangomirror.com](https://www.mangomirror.com). 
+The current version of the product is mainly aggregates and displays of user data (from various sources/devices/apps), but in future versions we are planning to enhance it with some key analytics and data interpretation to motivate users to take control of their health and live their best lives. 
+It would be great if you get a chance to review it and have any questions of comments on this product to help improve it. Thanks in advance. 
+Read more 
+Share 
+New to Reddit? 
+Create you
+2026-04-16 14:07:44,885 | INFO | Starting crawl for: https://www.reddit.com/r/smartmirrors/comments/5321v9/smart_mirror_development_input/
+2026-04-16 14:07:45,870 | INFO | Successfully crawled: https://www.reddit.com/r/smartmirrors/comments/5321v9/smart_mirror_development_input/ | Markdown length: 3562
+2026-04-16 14:07:45,870 | INFO | Crawled content for https://www.reddit.com/r/smartmirrors/comments/5321v9/smart_mirror_development_input/:
+[ Skip to main content ](https://www.reddit.com/r/smartmirrors/comments/5321v9/smart_mirror_development_input/#main-content) Smart Mirror Development Input : r/smartmirrors
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/smartmirrors
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ Go to smartmirrors  ](https://www.reddit.com/r/smartmirrors/)
+[r/smartmirrors](https://www.reddit.com/r/smartmirrors/) • 10y ago
+[_JoLoMo_](https://www.reddit.com/user/_JoLoMo_/)
+#  Smart Mirror Development Input 
+Take our survey! 
+## <https://goo.gl/forms/t7uEdlFxB2DlXJZG2>
+Hello! 
+We are conducting an open survey to hear from people what the top 5 most important features and qualities you value in a consumer Smart Mirror. We are hard at work at building the best product we can and already provide every feature you see on similar products and more. 
+Some features that only we offer are; custom physical options (size, shape, frame finishing), full Google Play Store access for widgets, complete UI control through voice gesture or touch, and our biggest announcement is the patent-pending augmented reality ability we offer! Let us know what you guys think and get your word in early as we continue to rapidly grow and develop. 
+Also here is a link to our teaser video about what makes us different, enjoy! 
+<https://youtu.be/7yivmQh2utc>
+Thanks! 
+JoLoMo 
+Read more 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+#  Related Answers Section 
+Related Answers 
+[ Unique smart mirror designs for small spaces  ](https://www.reddit.com/answers/c7bfe428-edf3-4815-b6d7-ca900559006a/?q=Unique+smart+mirror+designs+for
+2026-04-16 14:07:45,870 | INFO | Starting crawl for: https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/
+2026-04-16 14:07:47,048 | INFO | Successfully crawled: https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/ | Markdown length: 2871
+2026-04-16 14:07:47,048 | INFO | Crawled content for https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/:
+[ Skip to main content ](https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/#main-content) [WP] You wake up from a coma. You were in a car crash caused by a drunk billionaire. In an effort to save his reputation, he hurriedly and secretly ordered the best doctors to restore your burned face using the photo on the driver's license they found in your car—a car which you've stolen. : r/WritingPrompts
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/WritingPrompts
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ ![](https://styles.redditmedia.com/t5_2s3nb/styles/communityIcon_66dv9dd1ji9g1.png?width=96&height=96&frame=1&auto=webp&crop=96%3A96%2Csmart&s=ad0e5528cba749c66a0c0ec7bd48c8bf7bf4ea63) Go to WritingPrompts  ](https://www.reddit.com/r/WritingPrompts/)
+[r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/) • 6y ago
+[BeardedGlass](https://www.reddit.com/user/BeardedGlass/)
+#  [WP] You wake up from a coma. You were in a car crash caused by a drunk billionaire. In an effort to save his reputation, he hurriedly and secretly ordered the best doctors to restore your burned face using the photo on the driver's license they found in your car—a car which you've stolen. 
+[ Writing Prompt  ](https://www.reddit.com/r/WritingPrompts/?f=flair_name%3A%22Writing%20Prompt%22)
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+![pencil](https://emoji.redditmedia.com/2bmllztkkawc1_t5_2s3nb/pencil)
+![pencil](https://emoji.redditmedia.com/2bmllztkkawc1_t5_2s3nb/pencil)
+We're looking for mods! 
+[Apply here](https://www.reddit.com/r/WritingPrompt
+2026-04-16 14:07:47,048 | INFO | Starting crawl for: https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/
+2026-04-16 14:07:48,330 | INFO | Successfully crawled: https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/ | Markdown length: 4585
+2026-04-16 14:07:48,330 | INFO | Crawled content for https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/:
+[ Skip to main content ](https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/#main-content) During the protests, several users abandoned reddit in favor of decentralized alternatives. On the other hand, several users chose to stay on reddit or found themselves back on reddit after a few weeks. Why? : r/TheoryOfReddit
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/TheoryOfReddit
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ ![](https://styles.redditmedia.com/t5_2rtff/styles/communityIcon_catejjcmc9n61.png?width=96&height=96&frame=1&auto=webp&crop=96%3A96%2Csmart&s=838ba3ac7eb85a5b621cdc6a3b24762c58483934) Go to TheoryOfReddit  ](https://www.reddit.com/r/TheoryOfReddit/)
+[r/TheoryOfReddit](https://www.reddit.com/r/TheoryOfReddit/) • 3y ago
+[USFederalReserve](https://www.reddit.com/user/USFederalReserve/)
+#  During the protests, several users abandoned reddit in favor of decentralized alternatives. On the other hand, several users chose to stay on reddit or found themselves back on reddit after a few weeks. Why? 
+During the protests, we saw mass advertising for Lemmy and other decentralized reddit alternatives. This led to large growth on these alternative platforms, but based on the population of reddit, clearly only a small percentage of users actually fully committed to these new platforms. 
+I completely understand that the vast majority of reddit users are lurkers who are uninterested in the meta drama. The scope of this question is towards users who were convinced by the protests to try a reddit alternative, but ended up not committing to leaving reddit or adopting these alternatives. 
+Why not? Or in other words, what does reddit have now that these alternatives did not have at the time? What would it take for you to be convinced to move on to another platform? 
+I'd love to hear your thoughts. We all have lots of
+2026-04-16 14:07:48,330 | INFO | Starting crawl for: https://www.reddit.com/r/therapists/comments/12y0vcd/alternatives_for_alma_grow_path_headway/
+2026-04-16 14:07:49,601 | INFO | Successfully crawled: https://www.reddit.com/r/therapists/comments/12y0vcd/alternatives_for_alma_grow_path_headway/ | Markdown length: 3863
+2026-04-16 14:07:49,601 | INFO | Crawled content for https://www.reddit.com/r/therapists/comments/12y0vcd/alternatives_for_alma_grow_path_headway/:
+[ Skip to main content ](https://www.reddit.com/r/therapists/comments/12y0vcd/alternatives_for_alma_grow_path_headway/#main-content) Alternatives for Alma / Grow / Path / Headway / SonderMind / ModernHealth / Lyra (consolidated list) : r/therapists
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/therapists
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ ![](https://styles.redditmedia.com/t5_2wlgc/styles/communityIcon_jitfbwhuc1531.jpg?width=96&height=96&frame=1&auto=webp&crop=96%3A96%2Csmart&s=efaf76fd7e8548e12959a4b84212685fab44945e) Go to therapists  ](https://www.reddit.com/r/therapists/)
+[r/therapists](https://www.reddit.com/r/therapists/) • 3y ago
+[CrossEntropyLoss](https://www.reddit.com/user/CrossEntropyLoss/)
+#  Alternatives for Alma / Grow / Path / Headway / SonderMind / ModernHealth / Lyra (consolidated list) 
+[ Resource  ](https://www.reddit.com/r/therapists/?f=flair_name%3A%22Resource%22)
+Hopefully someone else finds this post useful as well. Someone I know has a private practice is drying up and I'm looking to explore options where I can help them list themselves. 
+I searched the subreddit, and was able to consolidate the following list. Whatever other practices people add, I'll edit the post and add it to the list. 
+Also if anyone knows the payouts for these in CA, please share. 
+  1. [Grow Therapy](https://growtherapy.com/providers/)
+  2. [Headway](https://headway.co/)
+  3. [Path](https://www.pathmentalhealth.com/provider-sign-up/)
+  4. [Alma](https://helloalma.com/for-providers/)
+  5. [Sonder Mind](https://www.sondermind.com/join-us)
+
+
+Others 
+  1. ModernHealth 
+  2. Lyra 
+
+
+Read more 
+Archived post. New comments cannot be posted and votes cannot be cast. 
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with GoogleContinue with Google. Opens in new tab
+Continue with Email 
+Continue With Phone Number 
+By c
+2026-04-16 14:07:49,601 | INFO | Starting crawl for: https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/
+2026-04-16 14:07:50,913 | INFO | Successfully crawled: https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/ | Markdown length: 2766
+2026-04-16 14:07:50,913 | INFO | Crawled content for https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/:
+[ Skip to main content ](https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/#main-content) NSA Orders Employees to Spy “With Dignity and Respect” : r/nottheonion
+Open menu Open navigation [ ](https://www.reddit.com/)Go to Reddit Home
+r/nottheonion
+Get App Get the Reddit app  [ Log In ](https://www.reddit.com/login/)Log in to Reddit
+Expand user menu Open settings menu
+[ ![](https://b.thumbs.redditmedia.com/t622Aw3Yrn8EWLcC5tECrHEV-pvBAZDTJBFVBBFqUaI.png) Go to nottheonion  ](https://www.reddit.com/r/nottheonion/)
+[r/nottheonion](https://www.reddit.com/r/nottheonion/) • 3y ago
+[BurstYourBubbles](https://www.reddit.com/user/BurstYourBubbles/)
+#  NSA Orders Employees to Spy “With Dignity and Respect” 
+[ ](https://theintercept.com/2023/08/25/nsa-spy-dignity-respect/)
+[ ![](https://external-preview.redd.it/nsa-orders-employees-to-spy-with-dignity-and-respect-v0-oDyPnCM0nDU98lRvctxugzl8WB55t5Mc4wDKwb7pEBc.jpg?width=640&crop=smart&auto=webp&s=8504112e31b13c65ecac0c419b79fffa05897e41) ](https://theintercept.com/2023/08/25/nsa-spy-dignity-respect/)[ ![r/nottheonion - NSA Orders Employees to Spy “With Dignity and Respect”](https://external-preview.redd.it/nsa-orders-employees-to-spy-with-dignity-and-respect-v0-oDyPnCM0nDU98lRvctxugzl8WB55t5Mc4wDKwb7pEBc.jpg?width=640&crop=smart&auto=webp&s=8504112e31b13c65ecac0c419b79fffa05897e41) ](https://theintercept.com/2023/08/25/nsa-spy-dignity-respect/)
+[ theintercept.com  Open ](https://theintercept.com/2023/08/25/nsa-spy-dignity-respect/)
+Share 
+New to Reddit? 
+Create your account and connect with a world of communities. 
+Continue with GoogleContinue with Google. Opens in new tab
+Continue with Email 
+Continue With Phone Number 
+By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). 
+Anyone can view, post, and comment to this community
+0
+2026-04-16 14:08:02,509 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-16 14:17:04,613 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-16 14:17:33,215 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-16 14:17:33,216 | INFO | Searching DDGS for query: smart mirror mental health competitors
+2026-04-16 14:17:34,021 | INFO | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=smart%20mirror%20mental%20health%20competitors 200
+2026-04-16 14:17:34,434 | INFO | response: https://grokipedia.com/api/typeahead?query=smart+mirror+mental+health+competitors&limit=1 200
+2026-04-16 14:17:34,961 | INFO | response: https://www.google.com/search?q=smart+mirror+mental+health+competitors&filter=1&start=0&hl=en-IN&lr=lang_en&cr=countryIN 200
+2026-04-16 14:17:36,302 | INFO | response: https://html.duckduckgo.com/html/ 200
+2026-04-16 14:17:36,306 | INFO | Found result | Title: Smart Mirror Market Size, Competitors, Trends & Forecast | URL: https://www.researchandmarkets.com/report/smart-mirror
+2026-04-16 14:17:36,306 | INFO | Found result | Title: Revolutionary Smart Mirrors with Built-in Health Diagnostics for a ... | URL: https://techgenyz.com/revolutionary-smart-mirrors-with-built-in-health/
+2026-04-16 14:17:36,306 | INFO | Found result | Title: Smart Mirror Market Size, Share, Growth | CAGR of 15.4% | URL: https://marketresearch.biz/report/smart-mirror-market/
+2026-04-16 14:17:36,306 | INFO | Found result | Title: Top Smart Mirror Alternatives, Competitors - CB Insights | URL: https://www.cbinsights.com/company/smart-mirror-1/alternatives-competitors
+2026-04-16 14:17:36,306 | INFO | Found result | Title: This smart mirror uses AI to boost your confidence and mood | URL: https://www.zdnet.com/article/this-smart-mirror-uses-ai-to-boost-your-confidence-and-mood/
+2026-04-16 14:17:36,306 | INFO | Found result | Title: CES 2024: Baracoda unveils BMind, the world's first smart mirror for ... | URL: https://baracoda.com/resources/press/baracoda-unveils-bmind-smart-mirror-for-mental-wellness
+2026-04-16 14:17:36,306 | INFO | Found result | Title: Top smart mirror companies | VentureRadar | URL: https://www.ventureradar.com/keyword/smart+mirror
+2026-04-16 14:17:36,306 | INFO | Found result | Title: Smart Mirrors That Diagnose You: Health Tech or Sci-Fi? | URL: https://evolutionoftheprogress.com/smart-mirrors/
+2026-04-16 14:17:36,306 | INFO | Found result | Title: Smart Mirrors Industry Analysis - Virtual Mirror Technology Fuels ... | URL: https://www.coherentmarketinsights.com/blog/recent-developments-in-smart-mirrors-industry-1284
+2026-04-16 14:17:36,306 | INFO | Found result | Title: Baracoda turns the bathroom mirror into a daily mental health coach | URL: https://www.trendwatching.com/innovation-of-the-day/baracoda-turns-the-bathroom-mirror-into-a-daily-wellness-coach
+2026-04-16 14:17:36,307 | INFO | filter_urls: 10 → 6 URLs after filtering
+2026-04-16 14:17:36,307 | INFO | Searching DDGS for query: products for depression smart mirror
+2026-04-16 14:17:37,300 | INFO | response: https://grokipedia.com/api/typeahead?query=products+for+depression+smart+mirror&limit=1 200
+2026-04-16 14:17:37,871 | INFO | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=products%20for%20depression%20smart%20mirror 200
+2026-04-16 14:17:39,120 | INFO | response: https://yandex.com/search/site/?text=products+for+depression+smart+mirror&web=1&searchid=3582045 200
+2026-04-16 14:17:39,178 | INFO | Found result | Title: I'm a Makeup Artist—And I Let This AI-Powered Smart Mirror... - AOL | URL: https://www.aol.com/articles/im-makeup-artist-let-ai-200331497.html
+2026-04-16 14:17:39,178 | INFO | Found result | Title: What are the treatments available for depression? Smart... - YouTube | URL: https://www.youtube.com/watch?v=jxQyiVunJi8
+2026-04-16 14:17:39,178 | INFO | Found result | Title: Anura® MagicMirror - NuraLogix | URL: https://www.nuralogix.ai/magic-mirror/
+2026-04-16 14:17:39,178 | INFO | Found result | Title: Depression - National Institute of Mental Health (NIMH) | URL: https://www.nimh.nih.gov/health/topics/depression
+2026-04-16 14:17:39,178 | INFO | Found result | Title: Depression (major depressive disorder) - Symptoms... - Mayo Clinic | URL: https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007
+2026-04-16 14:17:39,178 | INFO | Found result | Title: A Guide for How to Get Out of Bed When Depressed | URL: https://www.choosingtherapy.com/cant-get-out-of-bed-depression/
+2026-04-16 14:17:39,178 | INFO | Found result | Title: Treatment Goals for Depression: SMART Goals & Objectives That... | URL: https://www.icanotes.com/2026/01/09/treatment-goals-for-depression-smart-goals-objectives-that-work/
+2026-04-16 14:17:39,178 | INFO | Found result | Title: Depression Test – Free mental health tests from Mental Health America | URL: https://screening.mhanational.org/screening-tools/depression/
+2026-04-16 14:17:39,178 | INFO | Found result | Title: psychiatry.org/patients-families/depression | URL: https://www.psychiatry.org/patients-families/depression
+2026-04-16 14:17:39,178 | INFO | Found result | Title: sciencedirect.com/science/article/pii/S0268401217305169 | URL: https://www.sciencedirect.com/science/article/pii/S0268401217305169
+2026-04-16 14:17:39,178 | INFO | filter_urls: 10 → 6 URLs after filtering
+2026-04-16 14:17:39,178 | INFO | Searching DDGS for query: Y Combinator mental health startups
+2026-04-16 14:17:39,755 | INFO | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=Y%20Combinator%20mental%20health%20startups 200
+2026-04-16 14:17:40,186 | INFO | response: https://grokipedia.com/api/typeahead?query=Y+Combinator+mental+health+startups&limit=1 200
+2026-04-16 14:17:40,493 | INFO | Error in engine yahoo: DDGSException("RequestError: RequestError('error sending request for url (https://search.yahoo.com/search;_ylt=0hKVFLrkgVa_kXmpG2lgNNtT;_ylu=PwsvK8Dd9zTtq9qRrD0lvu-IzP-XGN0-jAK8ejINqRlZtt0?p=Y+Combinator+mental+health+startups)', 'https://search.yahoo.com/search;_ylt=0hKVFLrkgVa_kXmpG2lgNNtT;_ylu=PwsvK8Dd9zTtq9qRrD0lvu-IzP-XGN0-jAK8ejINqRlZtt0?p=Y+Combinator+mental+health+startups')")
+2026-04-16 14:17:41,416 | INFO | response: https://html.duckduckgo.com/html/ 200
+2026-04-16 14:17:41,421 | INFO | Found result | Title: Y Combinator Startups 2026 | URL: https://www.ycombinator.com/companies/industry/Mental+Health
+2026-04-16 14:17:41,421 | INFO | Found result | Title: Consumer Health and Wellness Startups funded by Y ... - Y Combinator | URL: https://www.ycombinator.com/companies/industry/consumer-health-and-wellness
+2026-04-16 14:17:41,421 | INFO | Found result | Title: Y Combinator's Work at a Startup | URL: https://www.workatastartup.com/
+2026-04-16 14:17:41,421 | INFO | Found result | Title: Best Mental Health Companies and Startups to Work for in 2026 | URL: https://wellfound.com/startups/industry/mental-health-3
+2026-04-16 14:17:41,421 | INFO | Found result | Title: 11 Y Combinator Startups Shaping the Future of Healthcare | URL: https://www.athelas.com/tbh/11-y-combinator-startups-shaping-the-future-of-healthcare
+2026-04-16 14:17:41,421 | INFO | Found result | Title: Jobs at Legion Health (S21) | Y Combinator's Work at a Startup | URL: https://www.workatastartup.com/companies/legion-health
+2026-04-16 14:17:41,421 | INFO | Found result | Title: Launch YC: Sonia - AI mental health therapy | Y Combinator | Y ... | URL: https://www.linkedin.com/posts/y-combinator_launch-yc-sonia-ai-mental-health-therapy-activity-7165434915562409984-s7mq
+2026-04-16 14:17:41,421 | INFO | Found result | Title: Y Combinator grants funding to neuro-tech startup working to improve ... | URL: https://startupbeat.com/y-combinator-grants-funding-to-neuro-tech-startup-working-to-improve-mental-healthcare-accessibility/35642/
+2026-04-16 14:17:41,421 | INFO | Found result | Title: Meet 13 Startups from Y Combinator's W23 Batch We're Watching Closely ... | URL: https://femtechinsider.com/healthcare-y-combinator-w23/
+2026-04-16 14:17:41,421 | INFO | Found result | Title: 2026 Best Y Combinator Startups in India | StartupFrequency | URL: https://www.startupfrequency.com/ycstartups/?location=India
+2026-04-16 14:17:41,421 | INFO | filter_urls: 10 → 6 URLs after filtering
+2026-04-16 14:17:41,421 | INFO | Searching DDGS for query: smart mirror mental health competitors site:reddit.com
+2026-04-16 14:17:41,740 | INFO | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=smart%20mirror%20mental%20health%20competitors%20site%3Areddit.com 200
+2026-04-16 14:17:42,521 | INFO | response: https://grokipedia.com/api/typeahead?query=smart+mirror+mental+health+competitors+site%3Areddit.com&limit=1 200
+2026-04-16 14:17:42,718 | INFO | response: https://html.duckduckgo.com/html/ 202
+2026-04-16 14:17:43,246 | INFO | response: https://search.yahoo.com/search;_ylt=VG5TLUpvXTvz_YUeU7VNMb3i;_ylu=PUj5wEe6xLpCFUGXHBZsy8b6F5NajXSNSBrVPjE11w3_ONs?p=smart+mirror+mental+health+competitors+site%3Areddit.com 200
+2026-04-16 14:17:44,685 | INFO | response: https://www.mojeek.com/search?q=smart+mirror+mental+health+competitors+site%3Areddit.com 200
+2026-04-16 14:17:44,885 | INFO | Found result | Title: [WP] You wake up from a coma. You were in a car crash caused by | URL: https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: During the protests, several users abandoned reddit in favor of | URL: https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: NSA Orders Employees to Spy “With Dignity and Respect” : | URL: https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: What accountability 🤣🤣 : antiwork | URL: https://www.reddit.com/r/antiwork/comments/12u2xtq/what_accountability/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: Apple CEO Tim Cook Talks the Future of iPhone, Driving an EV, | URL: https://www.reddit.com/r/apple/comments/173uk88/apple_ceo_tim_cook_talks_the_future_of_iphone/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: Ultimate New Car Buying Guide (Part 2 of 2) : personalfinance | URL: https://www.reddit.com/r/personalfinance/comments/8tx92f/ultimate_new_car_buying_guide_part_2_of_2/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: The Challenge: USA - UNSPOILED - S01E04 "Liberty and | URL: https://www.reddit.com/r/MtvChallenge/comments/w9v8gb/the_challenge_usa_unspoiled_s01e04_liberty_and/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: eli5 why the split between right and left handedness in the | URL: https://www.reddit.com/r/explainlikeimfive/comments/15vt3y7/eli5_why_the_split_between_right_and_left/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: Paris votes to ban rental e-scooters : technology | URL: https://www.reddit.com/r/technology/comments/12a9k4h/paris_votes_to_ban_rental_escooters/
+2026-04-16 14:17:44,886 | INFO | Found result | Title: If you were offered the kind of physique that would let you win | URL: https://www.reddit.com/r/AskWomen/comments/130lodj/if_you_were_offered_the_kind_of_physique_that/
+2026-04-16 14:17:46,591 | INFO | Starting crawl for: https://www.researchandmarkets.com/report/smart-mirror
+2026-04-16 14:17:48,291 | INFO | Successfully crawled: https://www.researchandmarkets.com/report/smart-mirror | Markdown length: 99071
+2026-04-16 14:17:48,291 | INFO | Crawled content for https://www.researchandmarkets.com/report/smart-mirror:
+[![Logo Research and Markets](https://www.researchandmarkets.com/images/logo.svg)](https://www.researchandmarkets.com/)[0 ](https://www.researchandmarkets.com/my_basket.asp)
+  * [ABOUT US](https://www.researchandmarkets.com/about-us)
+  * [CONTACT US](https://www.researchandmarkets.com/contact-us)
+  * [FAQ](https://www.researchandmarkets.com/faq)
+  * [](https://www.researchandmarkets.com/feats/login.asp?continue=%2Freport%2Fsmart-mirror)
+[ ![Logo Research and Markets](https://www.researchandmarkets.com/images/logo.svg) ](https://www.researchandmarkets.com/)![Logo Research and Markets](https://www.researchandmarkets.com/images/logo-research-and-markets-print.png)
+[__ 0 ](https://www.researchandmarkets.com/my_basket.asp)
+  * [USD](https://www.researchandmarkets.com/report/smart-mirror#2)
+  * [EUR](https://www.researchandmarkets.com/report/smart-mirror#1)
+  * [GBP](https://www.researchandmarkets.com/report/smart-mirror#3)
+[ EUR USD GBP ](https://www.researchandmarkets.com/my_basket.asp)
+**[+353-1-416-8900](tel:+353-1-416-8900) REST OF WORLD **
+**[+44-20-3973-8888](tel:+44-20-3973-8888) REST OF WORLD **
+**[1-917-300-0470](tel:1-917-300-0470) EAST COAST U.S **
+**[1-800-526-8630](tel:1-800-526-8630) U.S. (TOLL FREE) **
+[Login / Register](https://www.researchandmarkets.com/feats/login.asp)
+[Contact Us](https://www.researchandmarkets.com/contact-us)
+[About Us](https://www.researchandmarkets.com/about-us)
+[View Categories](https://www.researchandmarkets.com/report/smart-mirror#main-na
+2026-04-16 14:17:48,291 | INFO | Starting crawl for: https://techgenyz.com/revolutionary-smart-mirrors-with-built-in-health/
+2026-04-16 14:17:52,460 | INFO | Successfully crawled: https://techgenyz.com/revolutionary-smart-mirrors-with-built-in-health/ | Markdown length: 1
+2026-04-16 14:17:52,460 | WARNING | Skipping low-quality content for: https://techgenyz.com/revolutionary-smart-mirrors-with-built-in-health/
+2026-04-16 14:17:52,461 | INFO | Starting crawl for: https://marketresearch.biz/report/smart-mirror-market/
+2026-04-16 14:17:58,100 | INFO | Successfully crawled: https://marketresearch.biz/report/smart-mirror-market/ | Markdown length: 48093
+2026-04-16 14:17:58,101 | INFO | Crawled content for https://marketresearch.biz/report/smart-mirror-market/:
+[ ](javascript:;)[ ![Wide range of globle market reports.](https://marketresearch.biz/wp-content/themes/marketus/images/Logo-Main.svg) ![Wide range of globle market reports.](https://marketresearch.biz/wp-content/themes/marketus/images/Logo-Main.svg) ](https://marketresearch.biz)
+  * [Published Reports](https://marketresearch.biz/reports/)
+  * [Infographics](https://marketresearch.biz/infographics/)
+  * [Categories](https://marketresearch.biz/categories)
+    * [Technology and Media](https://marketresearch.biz/reports/technology-media/)
+    * [Chemicals & Materials](https://marketresearch.biz/reports/chemical-materials/)
+    * [Food and Beverage](https://marketresearch.biz/reports/food-beverages/)
+    * [Consumer Goods](https://marketresearch.biz/reports/consumer-goods/)
+    * [Healthcare Industry](https://marketresearch.biz/reports/healthcare/)
+    * [Medical Devices](https://marketresearch.biz/reports/medical-devices/)
+    * [Automotive Market](https://marketresearch.biz/reports/automotive/)
+    * [Packaging](https://marketresearch.biz/reports/packaging/)
+    * [Pharmaceutical](https://marketresearch.biz/reports/pharmaceutical/)
+    * [Electronics](https://marketresearch.biz/reports/electronics/)
+[Predictive Policing Market](https://marketresearch.biz/report/predictive-policing-market/)
+[Secure Access Services Edge Market](https://marketresearch.biz/report/secure-access-services-edge-market/)
+[Artificial Intelligence in Sports Market](https://marketresearch.biz/report/artifi
+2026-04-16 14:17:58,101 | INFO | Starting crawl for: https://www.cbinsights.com/company/smart-mirror-1/alternatives-competitors
+2026-04-16 14:18:01,123 | INFO | Successfully crawled: https://www.cbinsights.com/company/smart-mirror-1/alternatives-competitors | Markdown length: 20694
+2026-04-16 14:18:01,123 | INFO | Crawled content for https://www.cbinsights.com/company/smart-mirror-1/alternatives-competitors:
+* [Technology Vendors](https://www.cbinsights.com/what-we-offer/technology-vendors/)
+  * [Recent Research](https://www.cbinsights.com/research/)
+  * [Newsletter](https://www.cbinsights.com/newsletter/)
+  * [Media Support](https://www.cbinsights.com/media-support/)
+  * [Login](https://www.cbinsights.com/login)
+[![CB Insights](https://public-pages.cbinsights.com/public-site/635763/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)](https://www.cbinsights.com)
+      * [Corporate Strategy](https://www.cbinsights.com/who-we-serve/function/corporate-strategy/)
+      * [Corporate Venture Capital](https://www.cbinsights.com/who-we-serve/function/corporate-venture-capital/)
+      * [Venture Capital](https://www.cbinsights.com/who-we-serve/function/venture-capital/)
+      * [IT](https://www.cbinsights.com/who-we-serve/head-of-it/)
+      * [Corporate Innovation](https://www.cbinsights.com/who-we-serve/function/corporate-innovation/)
+      * ![Featured Item](https://public-pages.cbinsights.com/public-site/635763/_next/static/public/images/VC_Persona_Videos.png?w=640&q=75)
+[Go to the video gallery  →](https://www.cbinsights.com/how-vcs-use-cb-insights/)
+      * [Consumer & Retail](https://www.cbinsights.com/who-we-serve/industries/consumer/)
+      * [Tech](https://www.cbinsights.com/who-we-serve/industries/tech/)
+      * [Insurance](https://www.cbinsights.com/who-we-serve/industries/insurance/)
+      * [Healthcare](https://www.cbinsights.com/who-we-serve/industries/healthcare/)
+  
+2026-04-16 14:18:01,123 | INFO | Starting crawl for: https://www.zdnet.com/article/this-smart-mirror-uses-ai-to-boost-your-confidence-and-mood/
+2026-04-16 14:18:06,338 | INFO | Successfully crawled: https://www.zdnet.com/article/this-smart-mirror-uses-ai-to-boost-your-confidence-and-mood/ | Markdown length: 28726
+2026-04-16 14:18:06,338 | INFO | Crawled content for https://www.zdnet.com/article/this-smart-mirror-uses-ai-to-boost-your-confidence-and-mood/:
+  * [I wore the world's first HDR10 smart glasses ](https://www.zdnet.com/article/rayneo-air-4-pro-hdr10-smart-glasses-ces/)
+  * [TCL's new E Ink tablet beats the Remarkable and Kindle ](https://www.zdnet.com/article/tcl-note-a1-nxtpaper-ces/)
+  * [Anker's new charger is one of the most unique I've ever seen ](https://www.zdnet.com/article/anker-wireless-chargers-ces-2026/)
+  * [Best laptop cooling pads ](https://www.zdnet.com/home-and-office/best-laptop-cooling-pad/)
+  * [Best flip phones ](https://www.zdnet.com/article/best-flip-phone/)
+  * [Roku TV vs Fire Stick ](https://www.zdnet.com/home-and-office/home-entertainment/roku-tv-vs-fire-stick/)
+  * [Galaxy Buds 3 Pro vs Apple AirPods Pro 3 ](https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro/)
+  * [M5 MacBook Pro vs M4 MacBook Air ](https://www.zdnet.com/article/m5-macbook-pro-vs-m4-macbook-air/)
+  * [Linux Mint vs Zorin OS ](https://www.zdnet.com/article/linux-mint-vs-zorin-os-i-compared-the-two-windows-alternatives-and-heres-my-advice/)
+  * [4 quick steps to make your Android phone run like new again ](https://www.zdnet.com/article/android-phone-clear-cache-refresh-routine/)
+  * [How much RAM does your Linux PC need ](https://www.zdnet.com/article/how-much-ram-does-your-linux-pc-need-2026/)
+  * [How to clear your Android phone cache ](https://www.zdnet.com/article/how-to-clear-android-phone-cache-2026/)
+  * [How to disable ACR on your TV ](https://www.zdnet.com/home-and-office/home-entertainmen
+2026-04-16 14:18:06,338 | INFO | Starting crawl for: https://baracoda.com/resources/press/baracoda-unveils-bmind-smart-mirror-for-mental-wellness
+2026-04-16 14:18:09,167 | INFO | Successfully crawled: https://baracoda.com/resources/press/baracoda-unveils-bmind-smart-mirror-for-mental-wellness | Markdown length: 7515
+2026-04-16 14:18:09,167 | INFO | Crawled content for https://baracoda.com/resources/press/baracoda-unveils-bmind-smart-mirror-for-mental-wellness:
+[![Baracoda](https://cdn.sanity.io/images/nlc0dcft/production/ed0658302dc6dab02bd1f4fa8a3bb273d5007bc2-392x70.png)](https://baracoda.com/ "Baracoda")
+  * [About](https://baracoda.com/about-baracoda)
+  * [What We do](https://baracoda.com/what-we-do)
+  * [Industries](https://baracoda.com/industries)
+  * [Careers](https://baracoda.com/careers)
+  * [Contact](https://baracoda.com/contact)
+# CES 2024: Baracoda unveils BMind, the world’s first smart mirror for mental wellness
+_Personalized mental health coaching based on mood identification available on CareOS operating system._
+![BMind, the World’s First Smart Mirror  for Mental Wellness](https://cdn.sanity.io/images/nlc0dcft/production/e5fc75211f24219ce0eed3c49eafc7c44fd6bb04-2560x1682.jpg?w=3840&q=80&fit=clip&auto=format)
+**January 7, 2024, 5:00PM PT Las Vegas, Nevada and Paris, France —** Daily healthtech pioneer Baracoda today unveiled BMind, the world’s first AI-powered smart mirror for mental wellness, acting as a health companion capable of identifying mood and helping manage stress. Built on a new generation smart mirror software from the [CareOS](https://www.care-os.com/) platform, BMind provides personalized recommendations and experiences based on a user’s mental state, as part of a seamless, touchless experience with gesture recognition, voice command, and intent detection. BMind’s technology has recently been recognized with a 2024 Consumer Electronics (CES) Innovation Award in the smart home category.
+![](data:image/s
+2026-04-16 14:18:09,168 | INFO | Starting crawl for: https://www.aol.com/articles/im-makeup-artist-let-ai-200331497.html
+2026-04-16 14:18:11,620 | INFO | Successfully crawled: https://www.aol.com/articles/im-makeup-artist-let-ai-200331497.html | Markdown length: 24212
+2026-04-16 14:18:11,620 | INFO | Crawled content for https://www.aol.com/articles/im-makeup-artist-let-ai-200331497.html:
+  * [ Noida, UP Noida, UP Local News ](https://www.aol.com/local/ "Local")
+  * [Subscriptions](https://www.aol.com/products?ncid=mbr_rusacqlnk00000036 "Subscriptions")
+  * [Animals](https://www.aol.com/animals/ "Animals")
+  * [Entertainment](https://www.aol.com/entertainment/ "Entertainment")
+  * [Food](https://www.aol.com/food/ "Food")
+  * [Games](https://www.aol.com/games/ "Games")
+  * [Home & Garden](https://www.aol.com/home-garden/ "Home & Garden")
+  * [Shopping](https://www.aol.com/shopping/ "Shopping")
+  * [Style](https://www.aol.com/style/ "Style")
+  * [Travel](https://www.aol.com/travel/ "Travel")
+  * [True Crime](https://www.aol.com/true-crime/ "True Crime")
+  * [Finance](https://www.aol.com/finance/ "Finance")
+  * [Banking](https://www.aol.com/finance/banking/ "Banking")
+  * [Business News](https://www.aol.com/news/business/ "Business News")
+  * [Estate & Retirement Planning](https://www.aol.com/finance/retirement-planning/ "Estate & Retirement Planning")
+  * [Loans & Mortgages](https://www.aol.com/finance/mortgages/ "Loans & Mortgages")
+  * [Health](https://www.aol.com/health/ "Health")
+  * [Medicare](https://www.aol.com/health/medicare/ "Medicare")
+  * [News](https://www.aol.com/news/ "News")
+  * [Business](https://www.aol.com/news/business/ "Business")
+  * [Lighter Side](https://www.aol.com/news/lighter "Lighter Side")
+  * [Politics](https://www.aol.com/news/politics/ "Politics")
+  * [Science & Tech](https://www.aol.com/news/science-tech/ "Science & Tech")
+  * [S
+2026-04-16 14:18:11,620 | INFO | Starting crawl for: https://www.youtube.com/watch?v=jxQyiVunJi8
+2026-04-16 14:18:14,843 | INFO | Successfully crawled: https://www.youtube.com/watch?v=jxQyiVunJi8 | Markdown length: 12771
+2026-04-16 14:18:14,844 | INFO | Crawled content for https://www.youtube.com/watch?v=jxQyiVunJi8:
+Back  [ ![](https://www.youtube.com/watch?v=jxQyiVunJi8) ](https://www.youtube.com/ "YouTube Home") IN 
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DjxQyiVunJi8&hl=en-GB&ec=65620)
+[ ![](https://www.youtube.com/watch?v=jxQyiVunJi8) ](https://www.youtube.com/ "YouTube Home") IN 
+What are the treatments available for depression? Smart TMS
+[](https://www.youtube.com/watch?v=jxQyiVunJi8)
+## What are the treatments available for depression? Smart TMS
+If playback doesn't begin shortly, try restarting your device.
+Videos that you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+An error occurred while retrieving sharing information. Please try again later.
+[](https://www.youtube.com/watch?v=MiUHjLxm3V0 "Next \(SHIFT+n\)")
+[7:54 Interview with Dr Edward Clark, Smart TMSSmart TMS 357 views • 1 year agoLive ( (50+)](https://www.youtube.com/watch?v=882Lu1KF2O4)[28:07 Over 60 NEVER Take Magnesium Glycinate with Vitamin D3 & K2 Before Watching This!MIND FORGE2.7k views • 5 days agoLive ( (50+)](https://www.youtube.com/watch?v=T1aD0zIQSs4)[27:03 The #1 BEST Meal To Protect Your Heart & "Unclog" Your ArteriesDoctor Alex 43k views • 18 hours agoLive ( (50+)](https://www.youtube.com/watch?v=
+2026-04-16 14:18:14,844 | INFO | Starting crawl for: https://www.nuralogix.ai/magic-mirror/
+2026-04-16 14:18:19,394 | INFO | Successfully crawled: https://www.nuralogix.ai/magic-mirror/ | Markdown length: 8243
+2026-04-16 14:18:19,394 | INFO | Crawled content for https://www.nuralogix.ai/magic-mirror/:
+[ ![NuraLogix](https://www.nuralogix.ai/wp-content/uploads/2021/03/Nuralogix-Logo.png) ](https://www.nuralogix.ai/)
+  * [Technology](https://www.nuralogix.ai/technology/)
+    * [DeepAffex®](https://www.nuralogix.ai/deep-affex/)
+    * [Security](https://www.nuralogix.ai/security-compliance/)
+  * [Research](https://www.nuralogix.ai/research/)
+  * [Products](https://www.nuralogix.ai/magic-mirror/)
+    * [Anura®](https://www.nuralogix.ai/anura/)
+    * [Anura® Enterprise](https://www.nuralogix.ai/anura-enterprise/)
+    * [Anura® Telehealth](https://www.nuralogix.ai/telehealth/)
+    * [Anura® MagicMirror™](https://www.nuralogix.ai/magic-mirror/)
+    * [Longevity Mirror™](https://longevitymirror.com/)
+    * [Anura® Web Measurement Service (WMS)](https://www.nuralogix.ai/web-measurement-service/)
+    * [Software Development Kit (SDK)](https://www.nuralogix.ai/sdk/)
+  * [News](https://www.nuralogix.ai/updates/)
+  * [Company](https://www.nuralogix.ai/company/)
+  * [Get in Touch](https://www.nuralogix.ai/get-in-touch/)
+  * [Technology](https://www.nuralogix.ai/technology/)
+    * [DeepAffex®](https://www.nuralogix.ai/deep-affex/)
+    * [Security](https://www.nuralogix.ai/security-compliance/)
+  * [Research](https://www.nuralogix.ai/research/)
+  * [Products](https://www.nuralogix.ai/magic-mirror/)
+    * [Anura®](https://www.nuralogix.ai/anura/)
+    * [Anura® Enterprise](https://www.nuralogix.ai/anura-enterprise/)
+    * [Anura® Telehealth](https://www.nuralogix.ai/telehealth/)
+    * [Anura
+2026-04-16 14:18:19,394 | INFO | Starting crawl for: https://www.nimh.nih.gov/health/topics/depression
+2026-04-16 14:18:23,331 | INFO | Successfully crawled: https://www.nimh.nih.gov/health/topics/depression | Markdown length: 22538
+2026-04-16 14:18:23,332 | INFO | Crawled content for https://www.nimh.nih.gov/health/topics/depression:
+[ Skip to main content ](https://www.nimh.nih.gov/health/topics/depression#main-content)
+![](https://www.nimh.nih.gov/themes/nimhtheme/uswds/images/us_flag_small.png)
+An official website of the United States government
+![](https://www.nimh.nih.gov/themes/nimhtheme/uswds/images/icon-dot-gov.svg)
+A **.gov** website belongs to an official government organization in the United States.
+![](https://www.nimh.nih.gov/themes/nimhtheme/uswds/images/icon-https.svg)
+A **lock** ( Lock Locked padlock icon ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Due to current HHS and NIH restructuring, some content on nimh.nih.gov is not being updated regularly. Please refer to [clinicaltrials.gov](https://clinicaltrials.gov/) and [nih.gov](https://www.nih.gov/about-nih/nih-director/statements/nih-launches-initiative-modernize-strengthen-biosafety-oversight) for up-to-date information on NIH research.
+[ ![NIMH Logo](https://www.nimh.nih.gov/themes/nimhtheme/nimh-logo.svg) ](https://www.nimh.nih.gov/ "NIMH Home")
+[Home](https://www.nimh.nih.gov/) | [Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help)
+[Información en español](https://www.nimh.nih.gov/health/topics/espanol)
+  * [Mental Health Information](https://www.nimh.nih.gov/health)
+  * [Get Involved](https://www.nimh.nih.gov/get-involved)
+  * [Research](https://www.nimh.nih.gov/research)
+  * [Funding](https://www.nimh.nih.gov/funding)
+  * [News 
+2026-04-16 14:18:23,332 | INFO | Starting crawl for: https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007
+2026-04-16 14:18:24,851 | INFO | Successfully crawled: https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007 | Markdown length: 44136
+2026-04-16 14:18:24,851 | INFO | Crawled content for https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007:
+This content does not have an English version.
+This content does not have an Arabic version.
+[Skip to content](https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007#main-content)
+[![Mayo Clinic Home Page](https://assets.mayoclinic.org/content/dam/mayoclinic/images/logos/mayo-clinic-logo.svg)](https://www.mayoclinic.org/)
+[![Mayo Clinic Home Page](https://assets.mayoclinic.org/content/dam/mayoclinic/images/logos/mayo-clinic-logo.svg)](https://www.mayoclinic.org/)
+  * [Request appointment](https://www.mayoclinic.org/appointments)
+  * [Register/Log in](https://www.mayoclinic.org/member-experience)
+[Request appointment](https://www.mayoclinic.org/appointments)
+[Donate](https://give.mayoclinic.org/give/609586/#!/donation/checkout)
+[Diseases & conditions](https://www.mayoclinic.org/diseases-conditions)
+[Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
+[Patient-Centered Care](https://www.mayoclinic.org/patient-centered-care)
+[About Mayo Clinic](https://www.mayoclinic.org/about-mayo-clinic)
+[Request Appointment](https://www.mayoclinic.org/appointments)
+[Find a Doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
+[Locations](https://www.mayoclinic.org/locations)
+[Clinical Trials](https://www.mayo.edu/research/clinical-trials)
+[Connect to Support Groups](https://connect.mayoclinic.org)
+[Patient & Visitor Guide](https://www.mayoclinic.org/patient-visitor-guide)
+[Billing & Insurance](https://www.mayoclinic.org/billing-insura
+2026-04-16 14:18:24,851 | INFO | Starting crawl for: https://www.choosingtherapy.com/cant-get-out-of-bed-depression/
+2026-04-16 14:18:26,922 | INFO | Successfully crawled: https://www.choosingtherapy.com/cant-get-out-of-bed-depression/ | Markdown length: 57854
+2026-04-16 14:18:26,923 | INFO | Crawled content for https://www.choosingtherapy.com/cant-get-out-of-bed-depression/:
+[Skip to content](https://www.choosingtherapy.com/cant-get-out-of-bed-depression/#content)
+![](https://cdn-biiph.nitrocdn.com/UZREvxxQGAxeXhcoPyzyCLtvaevIaCgD/assets/images/source/rev-4aa1002/www.choosingtherapy.com/wp-content/uploads/2023/08/close.svg)
+  * [Mental Health Issues](https://www.choosingtherapy.com/cant-get-out-of-bed-depression/)
+    * [Anxiety](https://www.choosingtherapy.com/category/anxiety/)
+    * [ADHD](https://www.choosingtherapy.com/category/adhd/)
+    * [Bipolar Disorder](https://www.choosingtherapy.com/category/bipolar-disorder/)
+    * [Depression](https://www.choosingtherapy.com/category/depression/)
+    * [Grief](https://www.choosingtherapy.com/category/grief/)
+    * [Narcissism](https://www.choosingtherapy.com/category/narcissism/)
+    * [OCD](https://www.choosingtherapy.com/category/obsessive-compulsive-disorder/)
+    * [Personality Disorders](https://www.choosingtherapy.com/category/personality-disorder/)
+    * [PTSD](https://www.choosingtherapy.com/category/ptsd/)
+    * [Anger](https://www.choosingtherapy.com/category/anger/)
+    * [Burnout](https://www.choosingtherapy.com/category/burnout/)
+    * [Stress](https://www.choosingtherapy.com/category/stress/)
+  * [Relationships](https://www.choosingtherapy.com/cant-get-out-of-bed-depression/)
+    * [Dating](https://www.choosingtherapy.com/category/dating/)
+    * [Marriage](https://www.choosingtherapy.com/category/marriage/)
+    * [Sex & Intimacy](https://www.choosingtherapy.com/category/sex-and-intima
+2026-04-16 14:18:26,923 | INFO | Starting crawl for: https://www.ycombinator.com/companies/industry/Mental+Health
+2026-04-16 14:18:29,744 | INFO | Successfully crawled: https://www.ycombinator.com/companies/industry/Mental+Health | Markdown length: 1
+2026-04-16 14:18:29,744 | WARNING | Skipping low-quality content for: https://www.ycombinator.com/companies/industry/Mental+Health
+2026-04-16 14:18:29,744 | INFO | Starting crawl for: https://www.ycombinator.com/companies/industry/consumer-health-and-wellness
+2026-04-16 14:18:30,947 | INFO | Successfully crawled: https://www.ycombinator.com/companies/industry/consumer-health-and-wellness | Markdown length: 1
+2026-04-16 14:18:30,947 | WARNING | Skipping low-quality content for: https://www.ycombinator.com/companies/industry/consumer-health-and-wellness
+2026-04-16 14:18:30,947 | INFO | Starting crawl for: https://www.workatastartup.com/
+2026-04-16 14:18:32,794 | INFO | Successfully crawled: https://www.workatastartup.com/ | Markdown length: 26609
+2026-04-16 14:18:32,795 | INFO | Crawled content for https://www.workatastartup.com/:
+[![Y Combinator](https://bookface-static.ycombinator.com/assets/ycombinator-logo-37cf030fbc255fc71d19aa21bd5b32076aa206e8fbd0121c9247db2adcbd7851.png)](https://www.workatastartup.com/)
+[Work at a Startup](https://www.workatastartup.com/)[Startup Jobs](https://www.workatastartup.com/jobs)[Internships](https://www.workatastartup.com/internships)[Education](https://www.workatastartup.com/events)[How it Works](https://www.workatastartup.com/about)
+[Log In](https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2F)
+# Apply to **top YC startup jobs** with a single profile.
+Early stage to later stage, these startups are hiring now.
+[Get Started ›](https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication&defaults%5BsignUpActive%5D=true)
+Already at a YC company? [Browse privately ›](https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication&defaults%5BsignUpActive%5D=true)
+![](https://bookface-static.ycombinator.com/assets/waas/slideshow/meesho-6cd8b8a9b3b13ad166f866baf4c3c316f939ef1031062f4e34c2b744d99e304a.jpg)![](https://bookface-static.ycombinator.com/assets/waas/slideshow/razorpay-7cefecb752b5a027a9b694b6c2c64469cbe0eb57afa69601ede6d0aa2d42716d.jpg)![](https://bookface-static.ycombinator.com/assets/waas/slideshow/vahan-506c0f860c0941906cc2a21bd1c6f08cb951744bacbbce89cb6f4755523abf48.jpg)![](https://bookface-static.ycombinator.com/assets/waas/slideshow/
+2026-04-16 14:18:32,795 | INFO | Starting crawl for: https://wellfound.com/startups/industry/mental-health-3
+2026-04-16 14:18:33,589 | INFO | Successfully crawled: https://wellfound.com/startups/industry/mental-health-3 | Markdown length: 1
+2026-04-16 14:18:33,589 | WARNING | Skipping low-quality content for: https://wellfound.com/startups/industry/mental-health-3
+2026-04-16 14:18:33,589 | INFO | Starting crawl for: https://www.athelas.com/tbh/11-y-combinator-startups-shaping-the-future-of-healthcare
+2026-04-16 14:18:35,881 | INFO | Successfully crawled: https://www.athelas.com/tbh/11-y-combinator-startups-shaping-the-future-of-healthcare | Markdown length: 17598
+2026-04-16 14:18:35,882 | INFO | Crawled content for https://www.athelas.com/tbh/11-y-combinator-startups-shaping-the-future-of-healthcare:
+[About](https://www.athelas.com/company)[Partnerships](https://www.athelas.com/partnerships)[Trust Center](https://www.athelas.com/trust-center)[Careers](https://www.athelas.com/careers)
+[Ambient AI](https://www.athelas.com/ambient-ai)[Air EHR](https://www.athelas.com/air)[RCM](https://www.athelas.com/rcm)[Agents](https://www.athelas.com/agents)[Athelas Home](https://www.athelas.com/ahome)
+[Taking Back Healthcare Blog](https://www.athelas.com/tbh)[Research, Reports, and Guides](https://www.athelas.com/research-reports-and-guides)[Coding Library](https://www.athelas.com/coding-library)[Case Studies](https://www.athelas.com/case-studies)
+[Contact](https://www.athelas.com/contact)[Case Studies](https://www.athelas.com/case-studies)[Insights](https://insights.athelas.com/)
+[Get a Demo](https://www.athelas.com/tbh/11-y-combinator-startups-shaping-the-future-of-healthcare)
+[Get a Demo](https://www.athelas.com/tbh/11-y-combinator-startups-shaping-the-future-of-healthcare)
+# 11 Y Combinator Startups Shaping the Future of Healthcare
+![Ishan Sharma, Client Success](https://cdn.prod.website-files.com/680fff47a6e110f6f2eab546/680fff47a6e110f6f2eab6b9_625a030d96a2bb35cef8fd35_profile%2520pic.jpeg)
+![11 Y Combinator Startups Shaping the Future of Healthcare](https://cdn.prod.website-files.com/680fff47a6e110f6f2eab546/6895084cf4ec712cfdd310a3_Athelas%20Blog%20Graphic%2019.jpg)
+Tell us a little bit more about your practice and we will be in touch shortly
+Product Interest *Select one... Reven
+2026-04-16 14:18:35,882 | INFO | Starting crawl for: https://www.workatastartup.com/companies/legion-health
+2026-04-16 14:18:36,935 | INFO | Successfully crawled: https://www.workatastartup.com/companies/legion-health | Markdown length: 8646
+2026-04-16 14:18:36,935 | INFO | Crawled content for https://www.workatastartup.com/companies/legion-health:
+[![Y Combinator](https://bookface-static.ycombinator.com/assets/ycombinator-logo-37cf030fbc255fc71d19aa21bd5b32076aa206e8fbd0121c9247db2adcbd7851.png)](https://www.workatastartup.com/)
+[Work at a Startup](https://www.workatastartup.com/)[Startup Jobs](https://www.workatastartup.com/jobs)[Internships](https://www.workatastartup.com/internships)[Education](https://www.workatastartup.com/events)[How it Works](https://www.workatastartup.com/about)
+[Log In](https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fcompanies%2Flegion-health)
+![Legion Health](https://bookface-images.s3.amazonaws.com/small_logos/d3ae3f109ad60ca8a6a5c6055ffa946a4d30cd38.png)
+[](https://www.workatastartup.com/companies/legion-health/website)
+AI-native psychiatry, built for scale and covered by insurance
+![Arthur MacWaters](https://bookface-images.s3.amazonaws.com/avatars/7d301c3f1fbf5ec8a0a1bb6691963caec22e99ff.jpg)
+Arthur MacWaters[](https://www.linkedin.com/in/arthur-macwaters/)
+Co-Founder and President of Legion Health (YC S21) Princeton 2018. Ex-Mckinsey
+![Yash Patel](https://bookface-images.s3.amazonaws.com/avatars/a718e6c329d1619b42731935e1c33f67be0a80d3.jpg)
+Yash Patel[](https://www.linkedin.com/in/yashmpatel1/)
+![Daniel Wilson](https://bookface-images.s3.amazonaws.com/avatars/e11d737c70df6679cb938f1b0273b9fe503a1511.jpg)
+Daniel Wilson[](https://www.linkedin.com/in/danielgwilson)
+Co-Founder and CTO of Legion Health (YC S21) Builder, optimizer, and dreamer. Form
+2026-04-16 14:18:36,935 | INFO | Starting crawl for: https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/
+2026-04-16 14:18:37,546 | INFO | Successfully crawled: https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/ | Markdown length: 585
+2026-04-16 14:18:37,546 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/WritingPrompts/comments/j7c26y/wp_you_wake_up_from_a_coma_you_were_in_a_car/
+2026-04-16 14:18:37,546 | INFO | Starting crawl for: https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/
+2026-04-16 14:18:39,182 | INFO | Successfully crawled: https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/ | Markdown length: 4761
+2026-04-16 14:18:39,182 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/TheoryOfReddit/comments/15oidoh/during_the_protests_several_users_abandoned/
+2026-04-16 14:18:39,182 | INFO | Starting crawl for: https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/
+2026-04-16 14:18:39,790 | INFO | Successfully crawled: https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/ | Markdown length: 2766
+2026-04-16 14:18:39,790 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/nottheonion/comments/163toe2/nsa_orders_employees_to_spy_with_dignity_and/
+2026-04-16 14:18:39,790 | INFO | Starting crawl for: https://www.reddit.com/r/antiwork/comments/12u2xtq/what_accountability/
+2026-04-16 14:18:40,796 | INFO | Successfully crawled: https://www.reddit.com/r/antiwork/comments/12u2xtq/what_accountability/ | Markdown length: 1958
+2026-04-16 14:18:40,796 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/antiwork/comments/12u2xtq/what_accountability/
+2026-04-16 14:18:40,796 | INFO | Starting crawl for: https://www.reddit.com/r/apple/comments/173uk88/apple_ceo_tim_cook_talks_the_future_of_iphone/
+2026-04-16 14:18:41,836 | INFO | Successfully crawled: https://www.reddit.com/r/apple/comments/173uk88/apple_ceo_tim_cook_talks_the_future_of_iphone/ | Markdown length: 3891
+2026-04-16 14:18:41,836 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/apple/comments/173uk88/apple_ceo_tim_cook_talks_the_future_of_iphone/
+2026-04-16 14:18:41,836 | INFO | Starting crawl for: https://www.reddit.com/r/personalfinance/comments/8tx92f/ultimate_new_car_buying_guide_part_2_of_2/
+2026-04-16 14:18:44,216 | INFO | Successfully crawled: https://www.reddit.com/r/personalfinance/comments/8tx92f/ultimate_new_car_buying_guide_part_2_of_2/ | Markdown length: 18516
+2026-04-16 14:18:44,216 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/personalfinance/comments/8tx92f/ultimate_new_car_buying_guide_part_2_of_2/
+2026-04-16 14:18:44,217 | INFO | Starting crawl for: https://www.reddit.com/r/MtvChallenge/comments/w9v8gb/the_challenge_usa_unspoiled_s01e04_liberty_and/
+2026-04-16 14:18:45,558 | INFO | Successfully crawled: https://www.reddit.com/r/MtvChallenge/comments/w9v8gb/the_challenge_usa_unspoiled_s01e04_liberty_and/ | Markdown length: 4358
+2026-04-16 14:18:45,558 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/MtvChallenge/comments/w9v8gb/the_challenge_usa_unspoiled_s01e04_liberty_and/
+2026-04-16 14:18:45,558 | INFO | Starting crawl for: https://www.reddit.com/r/explainlikeimfive/comments/15vt3y7/eli5_why_the_split_between_right_and_left/
+2026-04-16 14:18:46,620 | INFO | Successfully crawled: https://www.reddit.com/r/explainlikeimfive/comments/15vt3y7/eli5_why_the_split_between_right_and_left/ | Markdown length: 2091
+2026-04-16 14:18:46,620 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/explainlikeimfive/comments/15vt3y7/eli5_why_the_split_between_right_and_left/
+2026-04-16 14:18:46,620 | INFO | Starting crawl for: https://www.reddit.com/r/technology/comments/12a9k4h/paris_votes_to_ban_rental_escooters/
+2026-04-16 14:18:47,730 | INFO | Successfully crawled: https://www.reddit.com/r/technology/comments/12a9k4h/paris_votes_to_ban_rental_escooters/ | Markdown length: 1973
+2026-04-16 14:18:47,730 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/technology/comments/12a9k4h/paris_votes_to_ban_rental_escooters/
+2026-04-16 14:18:47,730 | INFO | Starting crawl for: https://www.reddit.com/r/AskWomen/comments/130lodj/if_you_were_offered_the_kind_of_physique_that/
+2026-04-16 14:18:49,360 | INFO | Successfully crawled: https://www.reddit.com/r/AskWomen/comments/130lodj/if_you_were_offered_the_kind_of_physique_that/ | Markdown length: 2307
+2026-04-16 14:18:49,360 | WARNING | Skipping low-quality content for: https://www.reddit.com/r/AskWomen/comments/130lodj/if_you_were_offered_the_kind_of_physique_that/
+2026-04-16 14:18:58,550 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

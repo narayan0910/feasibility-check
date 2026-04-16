@@ -13,5 +13,5 @@ aiofiles
 langchain-groq
 requests
 beautifulsoup4
-duckduckgo-search
+ddgs
 crawl4ai

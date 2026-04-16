@@ -9,9 +9,17 @@ from app import app
 async def lifespan(_app):
     # ── Startup ───────────────────────────────────────────────────────────────
     print("Starting up... initializing database")
-    init_db()
+    try:
+        from core.database import engine
+        with engine.connect() as connection:
+            print("✅ Successfully connected to the PostgreSQL database!")
+        init_db()
+        print("✅ Database tables verified/initialized!")
+    except Exception as e:
+        print(f"❌ ERROR: Failed to connect to or initialize the database. Please check your POSTGRES_URL.")
+        print(f"Details: {e}")
+        
     yield
-    # ── Shutdown ──────────────────────────────────────────────────────────────
     print("Shutting down...")
 
 app.router.lifespan_context = lifespan
