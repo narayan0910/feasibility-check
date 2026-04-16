@@ -1,15 +1,10 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-import os
-from dotenv import load_dotenv
+
+from core.config import settings
 from models import Base
 
-load_dotenv()
-
-# Default to SQLite for easy setup if Postgres isn't provided/working
-DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./feasibility.db")
-
-engine = create_engine(DATABASE_URL)
+engine = create_engine(settings.POSTGRES_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 def init_db():

@@ -11,3 +11,7 @@ langchain
 langchain-community
 aiofiles
 langchain-groq
+requests
+beautifulsoup4
+duckduckgo-search
+crawl4ai
