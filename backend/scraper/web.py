@@ -1,5 +1,6 @@
 import asyncio
 import logging
+import re
 from ddgs import DDGS
 from crawl4ai import AsyncWebCrawler
 
@@ -37,6 +38,23 @@ def ddgs_url_scrapper(query):
     return urls
 
 
+def strip_links(text: str) -> str:
+    """
+    Remove all hyperlinks from markdown/crawled text so the LLM only
+    receives clean prose.  Three passes:
+      1. Markdown images  ![alt](url)  → removed entirely
+      2. Markdown links   [text](url)  → kept as  text
+      3. Bare URLs        http(s)://…  → removed
+    """
+    # 1. Remove markdown images completely
+    text = re.sub(r'!\[.*?\]\(.*?\)', '', text)
+    # 2. Collapse markdown hyperlinks to their display text
+    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
+    # 3. Remove bare http / https URLs
+    text = re.sub(r'https?://\S+', '', text)
+    return text
+
+
 def extract_core(markdown: str, max_chars: int = 1500) -> str:
     """
     Strip boilerplate from a crawled page's markdown.
@@ -72,10 +90,14 @@ def filter_urls(urls: list, max_results: int = 6) -> list:
 JUNK_SIGNALS = [
     "ERR_TIMED_OUT",
     "Log in to Reddit",
+    "Log In to Reddit",
+    "Get the Reddit app",
+    "Go to Reddit Home",
     "Complete the challenge",
-    "Skip to main content\n\n\n",
     "Enable JavaScript",
     "Please verify you are a human",
+    "Access denied",
+    "Subscribe to continue",
 ]
 
 
@@ -106,21 +128,33 @@ async def crawler_service(urls):
 
                 markdown = result.markdown or ""
 
-                print(markdown[:1000])
-                print("\n" + "-" * 80)
+                # Strip all links before any further processing
+                markdown = strip_links(markdown)
+
+                # ── Early junk check on the FULL raw markdown ──────────────
+                # Catches signals that appear outside the first 30 lines
+                # (e.g. Reddit login walls buried deep in the page)
+                if not is_useful_content(markdown):
+                    logging.warning(f"[SKIP-EARLY] Junk page detected: {url}")
+                    print(f"[SKIP] Junk page (early check): {url}")
+                    continue
 
                 logging.info(
                     f"Successfully crawled: {url} | "
                     f"Markdown length: {len(markdown)}"
                 )
 
+                print(markdown[:1000])
+                print("\n" + "-" * 80)
+
                 # Extract meaningful content (strip boilerplate)
                 core_content = extract_core(markdown)
 
-                # Skip pages that are junk (login walls, timeouts, etc.)
+                # ── Second quality check on the extracted core ─────────────
+                # Catches pages that become too short after boilerplate removal
                 if not is_useful_content(core_content):
-                    logging.warning(f"Skipping low-quality content for: {url}")
-                    print(f"[SKIP] Low-quality content: {url}")
+                    logging.warning(f"[SKIP-CORE] Low-quality core for: {url}")
+                    print(f"[SKIP] Low-quality core content: {url}")
                     continue
 
                 logging.info(

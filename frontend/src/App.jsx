@@ -26,6 +26,9 @@ const createConversation = (authorId) => ({
   aiQuestion: '',
   reportData: null,
   loading: false,
+  qaLoading: false,
+  qaMessages: [],
+  qaGraphMermaid: '',
   updatedAt: Date.now(),
   formData: {
     idea: '',
@@ -34,6 +37,7 @@ const createConversation = (authorId) => ({
     problem_solved: '',
     authorId,
     conversation_id: null,
+    qaInput: '',
   },
 });
 
@@ -138,12 +142,15 @@ function App() {
       if (!response.ok) throw new Error(`Server responded with ${response.status}`);
       const data = await response.json();
 
+      // Merge loading:false into the same update to avoid a race condition
+      // where a separate finally-block update overwrites conversation_id.
       updateActiveConversation((conv) => {
         const nextForm = { ...conv.formData, conversation_id: data.conversation_id };
 
         if (data.response === 'Researching your idea...') {
           return {
             ...conv,
+            loading: false,
             appStep: 'cross_question',
             aiQuestion: data.analysis,
             formData: { ...nextForm, idea: '' },
@@ -152,6 +159,7 @@ function App() {
 
         return {
           ...conv,
+          loading: false,
           appStep: 'report',
           reportData: parseAnalysisPayload(data.analysis),
           formData: nextForm,
@@ -160,8 +168,71 @@ function App() {
     } catch (error) {
       console.error('Connection Error:', error);
       alert(`Backend Unavailable: ${error.message}`);
-    } finally {
       updateActiveConversation({ loading: false });
+    }
+  };
+
+  const handleSubmitQa = async (e) => {
+    e.preventDefault();
+    if (!activeConversation || !activeConversation.formData.qaInput.trim() || !activeConversation.formData.conversation_id) return;
+
+    const question = activeConversation.formData.qaInput.trim();
+    
+    // Add user message to UI immediately
+    updateActiveConversation((conv) => ({
+      ...conv,
+      qaMessages: [...conv.qaMessages, { role: 'user', content: question }],
+      qaLoading: true,
+      formData: { ...conv.formData, qaInput: '' }
+    }));
+
+    try {
+      const response = await fetch('/api/qa', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          conversation_id: activeConversation.formData.conversation_id,
+          question: question
+        }),
+      });
+
+      if (!response.ok) throw new Error(`Server responded with ${response.status}`);
+      const data = await response.json();
+
+      // Merge qaLoading:false into the same update to prevent race
+      updateActiveConversation((conv) => ({
+        ...conv,
+        qaLoading: false,
+        qaMessages: [
+          ...conv.qaMessages,
+          {
+            role: 'ai',
+            content: data.answer,
+            chunks: data.top_chunks,
+            trace: data.trace,
+          },
+        ],
+      }));
+    } catch (error) {
+      console.error('QA Error:', error);
+      updateActiveConversation((conv) => ({
+        ...conv,
+        qaLoading: false,
+        qaMessages: [...conv.qaMessages, { role: 'ai', content: `Error: ${error.message}` }],
+      }));
+    }
+  };
+
+  const handleLoadQaGraph = async () => {
+    if (!activeConversation) return;
+    try {
+      const response = await fetch('/api/qa/graph');
+      if (!response.ok) throw new Error(`Server responded with ${response.status}`);
+      const data = await response.json();
+      updateActiveConversation({ qaGraphMermaid: data.mermaid || '' });
+    } catch (error) {
+      console.error('QA Graph Error:', error);
+      alert(`Could not load QA graph: ${error.message}`);
     }
   };
 
@@ -373,6 +444,137 @@ function App() {
                       {reportData.next_step}
                     </div>
                   </div>
+                </div>
+
+                {/* ── Q&A RAG Chat Section ── */}
+                <div style={{ marginTop: '2rem', borderTop: '1px solid var(--glass-border)', paddingTop: '2rem' }}>
+                  <h3 style={{ marginBottom: '1rem', color: 'var(--primary)' }}>Chat with your Report & Data</h3>
+                  <div style={{ marginBottom: '1rem' }}>
+                    <button
+                      type="button"
+                      onClick={handleLoadQaGraph}
+                      style={{ width: 'auto', padding: '0.5rem 1rem', fontSize: '0.9rem' }}
+                    >
+                      Load QA Graph
+                    </button>
+                  </div>
+
+                  {activeConversation.qaGraphMermaid && (
+                    <details style={{ marginBottom: '1rem' }}>
+                      <summary style={{ cursor: 'pointer', color: 'var(--secondary)', fontWeight: 600 }}>
+                        View QA Graph (Mermaid)
+                      </summary>
+                      <pre
+                        style={{
+                          whiteSpace: 'pre-wrap',
+                          marginTop: '0.75rem',
+                          padding: '0.75rem',
+                          border: '1px solid var(--glass-border)',
+                          borderRadius: '8px',
+                          background: 'rgba(0,0,0,0.25)',
+                          color: 'var(--text-muted)',
+                          fontSize: '0.82rem',
+                        }}
+                      >
+                        {activeConversation.qaGraphMermaid}
+                      </pre>
+                    </details>
+                  )}
+                  
+                  <div className="qa-chat-box" style={{ 
+                    maxHeight: '300px', 
+                    overflowY: 'auto', 
+                    marginBottom: '1rem',
+                    padding: '1rem',
+                    background: 'rgba(0,0,0,0.2)',
+                    borderRadius: '8px'
+                  }}>
+                    {activeConversation.qaMessages.length === 0 ? (
+                      <p style={{ color: 'var(--text-muted)', textAlign: 'center', margin: '2rem 0' }}>
+                        Ask questions about the compiled data or competitors...
+                      </p>
+                    ) : (
+                      activeConversation.qaMessages.map((msg, i) => (
+                        <div key={i} style={{ 
+                          marginBottom: '1rem', 
+                          textAlign: msg.role === 'user' ? 'right' : 'left'
+                        }}>
+                          <div style={{
+                            display: 'inline-block',
+                            padding: '0.8rem 1rem',
+                            borderRadius: '8px',
+                            background: msg.role === 'user' ? 'rgba(97, 218, 251, 0.1)' : 'rgba(255,255,255,0.05)',
+                            border: msg.role === 'user' ? '1px solid rgba(97, 218, 251, 0.3)' : '1px solid var(--glass-border)',
+                            maxWidth: '90%',
+                            whiteSpace: 'pre-wrap'
+                          }}>
+                            {msg.content}
+                            {msg.chunks && msg.chunks.length > 0 && (
+                               <details style={{ marginTop: '0.8rem', fontSize: '0.85em', color: 'var(--text-muted)' }}>
+                                 <summary style={{ cursor: 'pointer', opacity: 0.8, fontWeight: 'bold' }}>View Sources ({msg.chunks.length})</summary>
+                                 <div style={{ marginTop: '0.5rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                                   {msg.chunks.map((chunk, idx) => (
+                                     <div key={idx} style={{ background: 'rgba(0,0,0,0.3)', padding: '0.5rem', borderRadius: '4px', border: '1px solid rgba(255,255,255,0.05)' }}>
+                                       <div style={{ marginBottom: '0.2rem', color: 'var(--secondary)' }}><strong>Source:</strong> {chunk.source} ({chunk.score.toFixed(2)})</div>
+                                       <div style={{ opacity: 0.8, fontStyle: 'italic' }}>{chunk.text.substring(0, 150)}...</div>
+                                     </div>
+                                   ))}
+                                 </div>
+                               </details>
+                            )}
+                            {msg.trace && msg.trace.length > 0 && (
+                              <details style={{ marginTop: '0.8rem', fontSize: '0.85em', color: 'var(--text-muted)' }}>
+                                <summary style={{ cursor: 'pointer', opacity: 0.8, fontWeight: 'bold' }}>
+                                  View QA Trace ({msg.trace.length})
+                                </summary>
+                                <div style={{ marginTop: '0.5rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                                  {msg.trace.map((step, idx) => (
+                                    <div
+                                      key={idx}
+                                      style={{
+                                        background: 'rgba(0,0,0,0.3)',
+                                        padding: '0.5rem',
+                                        borderRadius: '4px',
+                                        border: '1px solid rgba(255,255,255,0.05)',
+                                      }}
+                                    >
+                                      <div style={{ marginBottom: '0.2rem', color: 'var(--secondary)' }}>
+                                        <strong>{step.step || `step_${idx + 1}`}</strong>
+                                      </div>
+                                      <div style={{ opacity: 0.85 }}>{step.message}</div>
+                                    </div>
+                                  ))}
+                                </div>
+                              </details>
+                            )}
+                          </div>
+                        </div>
+                      ))
+                    )}
+                    {activeConversation.qaLoading && (
+                      <div style={{ textAlign: 'left', color: 'var(--text-muted)' }}>
+                        <span className="pulse">Agent is thinking...</span>
+                      </div>
+                    )}
+                  </div>
+
+                  <form onSubmit={handleSubmitQa} style={{ display: 'flex', gap: '0.5rem' }}>
+                    <input
+                      name="qaInput"
+                      placeholder="e.g. Which competitor has the lowest price?"
+                      value={formData.qaInput || ''}
+                      onChange={handleChange}
+                      disabled={activeConversation.qaLoading}
+                      style={{ flex: 1, padding: '0.8rem', borderRadius: '4px', border: '1px solid var(--glass-border)', background: 'rgba(0,0,0,0.3)', color: 'white' }}
+                    />
+                    <button 
+                      type="submit" 
+                      disabled={activeConversation.qaLoading || !formData.qaInput?.trim()}
+                      style={{ width: 'auto', padding: '0 2rem' }}
+                    >
+                      Ask
+                    </button>
+                  </form>
                 </div>
               </div>
             )}

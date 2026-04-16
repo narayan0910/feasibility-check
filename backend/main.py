@@ -3,6 +3,7 @@ from contextlib import asynccontextmanager
 
 from core.database import init_db
 from app import app
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
 @asynccontextmanager
@@ -18,6 +19,16 @@ async def lifespan(_app):
     except Exception as e:
         print(f"❌ ERROR: Failed to connect to or initialize the database. Please check your POSTGRES_URL.")
         print(f"Details: {e}")
+        
+    print("Starting up RAG embedding models...")
+    try:
+        from rag.embedder import _init_qdrant
+        _init_qdrant()
+        print("✅ MiniLM-L6-v2 Embedder & Qdrant initialized locally!")
+    except ImportError as e:
+        print(f"⚠️  RAG packages missing: {e}")
+    except Exception as e:
+        print(f"⚠️  Qdrant initialization error: {e}")
         
     yield
     print("Shutting down...")

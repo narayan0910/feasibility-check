@@ -42,21 +42,12 @@ def cross_question_node(state: AgentState) -> dict:
 
 def load_context_node(state: AgentState) -> dict:
     """
-    Tool: Load Context (Old Chat)
-    Fetches the chat history from the DB.
+    Tool: Load Context
+    History is now loaded in api/routes.py and passed in state.
+    This node simply passes it along.
     """
     print("--- NODE EXECUTING: load_context_node ---")
-    db = SessionLocal()
-    history = []
-    try:
-        if state.get("conversation_id"):
-            sessions = db.query(ChatSession).filter(ChatSession.conversation_id == state["conversation_id"]).order_by(ChatSession.timestamp.asc()).all()
-            for s in sessions:
-                history.append({"user": s.human_message, "ai": s.ai_message})
-    finally:
-        db.close()
-        
-    return {"conversation_history": history}
+    return {"conversation_history": state.get("conversation_history", [])}
 
 
 def modify_query_node(state: AgentState) -> dict:
@@ -163,6 +154,24 @@ def llm_agent_node(state: AgentState) -> dict:
     print("--- NODE EXECUTING: llm_agent_node ---")
     from core.llm_factory import get_llm
     llm = get_llm()
+
+    # ── Parallelize Embedding & LLM Call ──
+    # The LLM API call takes time (waiting on network).
+    # We can perform the CPU-intensive embedding of search_results locally at the same time.
+    try:
+        from rag.embedder import embed_conversation_context
+        import threading
+        
+        # Fire off the CPU-bound embedding in a background thread
+        print("  [RAG] 🚀 Starting background embedding for search_results...")
+        emb_thread = threading.Thread(
+            target=embed_conversation_context,
+            args=(state.get('conversation_id', ''), state.get('search_results', ''), ""),
+            daemon=True
+        )
+        emb_thread.start()
+    except Exception as e:
+        print(f"  [RAG] ⚠️ Could not start background embedding: {e}")
 
     prompt = get_feasibility_prompt(
         idea=state['idea'],

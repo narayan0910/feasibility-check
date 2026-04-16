@@ -22,7 +22,8 @@ An agentic, multi-step feasibility analysis system that researches your startup 
 | **Content Quality Filtering** | Strips nav/header boilerplate; skips login walls, CAPTCHAs, and timeout pages |
 | **URL Deduplication** | All URLs from all queries are deduplicated before crawling |
 | **Structured JSON Report** | 7-field feasibility report: score, idea fit, competitors, opportunity, targeting, next step, reasoning chain |
-| **Premium Glassmorphic UI** | Dark-mode React app with a 3-step conversational state machine |
+| **Post-Report RAG Q&A** | Chat interactively with your generated report and scraped web data using local Qdrant vectors and MiniLM embeddings |
+| **Premium Glassmorphic UI** | Dark-mode React app with a 4-step conversational state machine |
 
 ---
 
@@ -56,8 +57,13 @@ load_context_node          → reads full chat history from PostgreSQL
                  ▼
          PostgreSQL upsert  (ChatSession + AgentStateModel + FeasibilityReport)
                  │
+                 ├── (Background Thread) → text chunks → MiniLM-L6-v2 → Qdrant Vector Store
+                 │
                  ▼
          → frontend renders structured report
+         
+Step 3 (Optional) — POST /api/qa
+         User asks follow-up -> retriever queries Qdrant -> RAG QA Prompt -> Answer
 ```
 
 ---
@@ -70,6 +76,8 @@ load_context_node          → reads full chat history from PostgreSQL
 | **Agent Orchestration** | LangGraph (StateGraph) |
 | **Web Search** | DDGS (`ddgs` package) |
 | **Web Crawler** | crawl4ai (async, headless) |
+| **Vector Database** | Qdrant (local disk collection) |
+| **Embeddings** | SentenceTransformers (`all-MiniLM-L6-v2`) |
 | **Backend API** | FastAPI + Uvicorn |
 | **Database** | PostgreSQL via Neon (SQLAlchemy ORM) |
 | **Frontend** | React + Vite |
@@ -97,7 +105,11 @@ fesebility_check/
 │   │   ├── tools.py           # All node functions
 │   │   └── prompts/
 │   │       ├── cross_question.py
+│   │       ├── qa.py              # Follow-up RAG prompt
 │   │       └── feasibility.py
+│   ├── rag/
+│   │   ├── embedder.py        # SentenceTransformers chunking & Qdrant upsert
+│   │   └── retriever.py       # Context search logic
 │   ├── scraper/
 │   │   └── web.py             # ddgs_url_scrapper, extract_core,
 │   │                          # filter_urls, is_useful_content, crawler_service

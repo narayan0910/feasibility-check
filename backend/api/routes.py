@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, BackgroundTasks
 from pydantic import BaseModel
 from sqlalchemy.orm import Session
 from typing import Optional
@@ -9,7 +9,14 @@ from api.dependencies import (
 )
 from models import ChatSession, AgentStateModel, FeasibilityReport
 from pipeline.graph import app as langgraph_app
+from pipeline.qa_graph import qa_app as qa_langgraph_app, get_qa_graph_mermaid
 import json
+import logging
+
+try:
+    from rag.embedder import embed_conversation_context
+except ImportError:
+    embed_conversation_context = None
 
 router = APIRouter()
 
@@ -29,8 +36,23 @@ class ChatResponse(BaseModel):
     analysis: Optional[str] = None
 
 
+class QaInput(BaseModel):
+    conversation_id: str
+    question: str
+
+
+class QaResponse(BaseModel):
+    answer: str
+    top_chunks: Optional[list[dict]] = None
+    trace: Optional[list[dict]] = None
+
+
 @router.post("/chat", response_model=ChatResponse)
-async def chat_endpoint(input_data: IdeaInput, db: Session = Depends(get_db)):
+async def chat_endpoint(
+    input_data: IdeaInput,
+    background_tasks: BackgroundTasks,
+    db: Session = Depends(get_db)
+):
     print("--- INCOMING REQUEST ---")
     print(f"Idea: {input_data.idea}")
 
@@ -59,6 +81,12 @@ async def chat_endpoint(input_data: IdeaInput, db: Session = Depends(get_db)):
     else:
         conv_id = str(uuid.uuid4())
 
+    history_dicts = []
+    if not is_new_chat and conv_id:
+        sessions = db.query(ChatSession).filter(ChatSession.conversation_id == conv_id).order_by(ChatSession.timestamp.asc()).all()
+        for s in sessions:
+            history_dicts.append({"user": s.human_message, "ai": s.ai_message})
+
     initial_state = {
         "idea": original_idea,
         "user_name": input_data.user_name,
@@ -69,7 +97,7 @@ async def chat_endpoint(input_data: IdeaInput, db: Session = Depends(get_db)):
         "analysis": initial_analysis,
         "is_new_chat": is_new_chat,
         "conversation_id": conv_id,
-        "conversation_history": [],
+        "conversation_history": history_dicts,
         "optimized_query": "",
         "optimized_queries": [],
         "current_message": current_message
@@ -125,9 +153,89 @@ async def chat_endpoint(input_data: IdeaInput, db: Session = Depends(get_db)):
             print("Warning: LLM analysis output wasn't valid JSON. Could not parse to FeasibilityReport.")
 
     db.commit()
+    
+    # ── Queue the state to be embedded in the background if it's the final report ──
+    if not is_new_chat and embed_conversation_context is not None:
+        background_tasks.add_task(
+            embed_conversation_context,
+            conversation_id=conv_id,
+            search_results="",  # Handled inside llm_agent_node in parallel
+            analysis=state_model.analysis
+        )
 
     return ChatResponse(
         response="Analysis Complete" if not is_new_chat else "Researching your idea...",
         conversation_id=conv_id,
         analysis=result.get("analysis"),
     )
+
+
+@router.post("/qa", response_model=QaResponse)
+async def qa_endpoint(input_data: QaInput, db: Session = Depends(get_db)):
+    """
+    RAG-backed Q&A for follow-up questions about the feasibility report.
+    """
+    conv_id = input_data.conversation_id
+    question = input_data.question
+    
+    # Check if persisted state exists for this conversation
+    state_model = db.query(AgentStateModel).filter(AgentStateModel.conversation_id == conv_id).first()
+    if not state_model:
+        return QaResponse(answer="Could not find a feasibility report for this idea.")
+         
+    # History
+    history_dicts = []
+    sessions = db.query(ChatSession).filter(ChatSession.conversation_id == conv_id).order_by(ChatSession.timestamp.asc()).all()
+    for s in sessions:
+        history_dicts.append({"user": s.human_message, "ai": s.ai_message})
+
+    if not sessions:
+        return QaResponse(answer="Could not find chat history for this conversation.")
+         
+    try:
+        # Build QA state with the SAME shared keys as /chat plus QA-specific fields.
+        first = sessions[0]
+        initial_state = {
+            "idea": first.idea or "your startup idea",
+            "user_name": first.user_name or "",
+            "ideal_customer": first.ideal_customer or "",
+            "problem_solved": first.what_problem_it_solves or "",
+            "messages": [],
+            "search_results": state_model.search_results or "",
+            "analysis": state_model.analysis or "",
+            "is_new_chat": False,
+            "conversation_id": conv_id,
+            "conversation_history": history_dicts,
+            "optimized_query": state_model.optimized_query or "",
+            "optimized_queries": [],
+            "current_message": question,
+            "question": question,
+            "rag_context": "",
+            "top_chunks": [],
+            "qa_answer": "",
+            "trace": [],
+        }
+
+        result = await qa_langgraph_app.ainvoke(initial_state)
+        answer = result.get("qa_answer") or "I couldn't generate an answer right now."
+        chunks = result.get("top_chunks", [])
+        trace = result.get("trace", [])
+    except Exception as e:
+        logging.error(f"Error during QA LLM call: {e}")
+        answer = "I'm sorry, I encountered an error while trying to answer your question."
+        chunks = []
+        trace = [{"step": "qa_error", "message": str(e)}]
+
+    return QaResponse(answer=answer, top_chunks=chunks, trace=trace)
+
+
+@router.get("/qa/graph")
+async def qa_graph_endpoint():
+    """
+    Returns a Mermaid graph definition for the QA LangGraph flow.
+    Use this to visualize and trace QA pipeline execution.
+    """
+    return {
+        "name": "qa_langgraph",
+        "mermaid": get_qa_graph_mermaid(),
+    }
