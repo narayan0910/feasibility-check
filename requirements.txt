@@ -17,4 +17,8 @@ beautifulsoup4
 ddgs
 crawl4ai
 qdrant-client
-sentence-transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+torchaudio==2.2.2+cpu
+sentence-transformers==2.7.0
